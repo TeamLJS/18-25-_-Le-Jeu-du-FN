@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "lcma",
+  title = "Lepen Chronicles - Marine's Awakening",
+  short_description = "Pour la patrie !",
+  long_description = [[ Rothschild, le banquier maléfique, a enlevé la Princesse Marion Maréchal et plongé le monde dans le chaos. Vous êtes la seule à pouvoir changer le destin dans cette toute nouvelle aventure inédite. Incarnez Marine, reprenez force grâce au peuple, vainquez les 11 candidats maléfiques et Rothschild. Le monde est votre limite dans ce tout premier opus de la saga "Le Jeu du FN"
+]],
+  author = "Team LJS",
+  quest_version = "0.01",
+  release_date = "",
+  website = "",
+  normal_quest_size = "432x240",
+  min_quest_size = "432x240",
+  max_quest_size = "432x240",
+}
+

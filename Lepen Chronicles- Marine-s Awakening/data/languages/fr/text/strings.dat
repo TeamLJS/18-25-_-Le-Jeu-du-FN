@@ -1,0 +1,353 @@
+text{ key = "copyright_menu.made_by_fans.line1", value = "Ce jeu est réalisé par des fans," }
+text{ key = "copyright_menu.made_by_fans.line2", value = "est non commercial" }
+text{ key = "copyright_menu.made_by_fans.line3", value = "et n'a aucun lien avec Nintendo." }
+text{ key = "copyright_menu.solarus_license.line1", value = "Solarus est un logiciel libre" }
+text{ key = "copyright_menu.solarus_license.line2", value = "sous licence GPL v3." }
+text{ key = "copyright_menu.tloz_trademark.line1", value = "The Legend of Zelda est" }
+text{ key = "copyright_menu.tloz_trademark.line2", value = "une marque déposée de Nintendo." }
+text{ key = "equipment.caption.bomb_bag_1", value = "Sac de Bombe (10)" }
+text{ key = "equipment.caption.bomb_bag_2", value = "Grand Sac de Bombe (30)" }
+text{ key = "equipment.caption.bomb_bag_3", value = "Sac de Bombe Géant (50)" }
+text{ key = "equipment.caption.bombchu_bag_1", value = "Sac de Missile (10)" }
+text{ key = "equipment.caption.bombchu_bag_2", value = "Sac de Missile (30)" }
+text{ key = "equipment.caption.bombchu_bag_3", value = "Sac de Missile (50)" }
+text{ key = "equipment.caption.climb_ring_1", value = "Badge d'Escalade" }
+text{ key = "equipment.caption.deku_nuts_bag_1", value = "Sac de Noix Mojo (10)" }
+text{ key = "equipment.caption.deku_nuts_bag_2", value = "Sac de Noix Mojo (30)" }
+text{ key = "equipment.caption.deku_nuts_bag_3", value = "Sac de Noix Mojo (50)" }
+text{ key = "equipment.caption.glove_1", value = "Gantelet d'Argent" }
+text{ key = "equipment.caption.glove_2", value = "Gantelets d'Or" }
+text{ key = "equipment.caption.quiver_1", value = "Carquois (30)" }
+text{ key = "equipment.caption.quiver_2", value = "Grand Carquois (60)" }
+text{ key = "equipment.caption.quiver_3", value = "Carquois Géant (100)" }
+text{ key = "equipment.caption.rupee_bag_1", value = "Sac de Rubis (300)" }
+text{ key = "equipment.caption.rupee_bag_2", value = "Grand Sac de rubis (500)" }
+text{ key = "equipment.caption.rupee_bag_3", value = "Sac de Rubis Géant (999)" }
+text{ key = "equipment.caption.rupee_bag_4", value = "Sac de rubis Titanesque (5000)" }
+text{ key = "equipment.caption.rupee_bag_5", value = "Sac de Rubis Divin (9999)" }
+text{ key = "equipment.caption.rupee_bag_6", value = "Sac de Rubis Royal (99999)" }
+text{ key = "equipment.caption.shield_1", value = "Bouclier de Bois" }
+text{ key = "equipment.caption.shield_2", value = "Bouclier d'Hylia" }
+text{ key = "equipment.caption.shield_3", value = "Bouclier Mirroir" }
+text{ key = "equipment.caption.sword_1", value = "Epée de Talon" }
+text{ key = "equipment.caption.sword_2", value = "Excalibur" }
+text{ key = "equipment.caption.sword_3", value = "Excalibur$ 1/2 restaurée" }
+text{ key = "equipment.caption.sword_4", value = "Excalibur$La Lame Eternelle" }
+text{ key = "equipment.caption.sword_5", value = "Epée Biggoron" }
+text{ key = "equipment.caption.sword_biggoron_1", value = "Epée Biggoron" }
+text{ key = "equipment.caption.tunic_1", value = "Tunique du Héros" }
+text{ key = "equipment.caption.tunic_2", value = "Tunique Goron" }
+text{ key = "equipment.caption.tunic_3", value = "Tunique Zora" }
+text{ key = "hints.interact_with_object", value = "Interaction:$ $Pour interagir avec$des objets, appuyez$sur la touche$'Action'.$ $Surveillez l'icone$Verte en haut$à droite de l'écran." }
+text{ key = "hints.roc_cape", value = "Cape de Roc:$ $Pour sauter, appuyez$sur la touche$auquel elle est$assignée.$ $Maintenez pour voler$plus loin." }
+text{ key = "intro.0", value = "Il est une histoire mythique qu'on raconte,$parmi tant d'autres légendes..." }
+text{ key = "intro.1", value = "Il y a bien longtemps, existait un royaume$ou l'on disait qui cachait le pouvoir des Dieux" }
+text{ key = "intro.2", value = "Ce royaume habitait le " }
+text{ key = "intro.3", value = "Une guerre eclata et les forces du mal voulaient s'emparer$de la triforce. Les forces royales diminuaient de jour en jour. " }
+text{ key = "intro.4", value = "La Princesse du Royaume decida en dernier recours de confier$une tache a un garcon tout de vert vetu." }
+text{ key = "intro.5", value = "Test" }
+text{ key = "intro.6", value = "Profitant de l'absence du heros, un homme noir d'esprit,$Ganondorf vena capturer la Princesse et derober la Triforce." }
+text{ key = "intro.7", value = "Ayant recu par les deeses un pouvoir destructeur, il$mena le royaume vers le chaos et la desolation." }
+text{ key = "intro.8", value = "Ayant recu par les deeses un pouvoir destructeur, il$mena le royame vers le chaos et la desolation." }
+text{ key = "inventory.caption.item.acorn_counter.1", value = "Noisette" }
+text{ key = "inventory.caption.item.alchemy_counter.1", value = "Alchemy Stone" }
+text{ key = "inventory.caption.item.amber_counter.1", value = "Ambre de Bronze" }
+text{ key = "inventory.caption.item.blue_chuchu_counter.1", value = "Gelée Chuchu Bleue" }
+text{ key = "inventory.caption.item.bomb_counter.1", value = "Bombes" }
+text{ key = "inventory.caption.item.bombchu_counter.1", value = "Missile Teigneux" }
+text{ key = "inventory.caption.item.boomerang.1", value = "Boomerang" }
+text{ key = "inventory.caption.item.bottle.1", value = "Flacon Vide" }
+text{ key = "inventory.caption.item.bottle.2", value = "Eau" }
+text{ key = "inventory.caption.item.bottle.3", value = "Potion Rouge" }
+text{ key = "inventory.caption.item.bottle.4", value = "Potion Verte" }
+text{ key = "inventory.caption.item.bottle.5", value = "Bottle$(Blue Potion)" }
+text{ key = "inventory.caption.item.bottle.6", value = "Potion Revitalisante" }
+text{ key = "inventory.caption.item.bottle.7", value = "Fée" }
+text{ key = "inventory.caption.item.bottle.8", value = "Ame de Spectre" }
+text{ key = "inventory.caption.item.bow.1", value = "Arc du Héros" }
+text{ key = "inventory.caption.item.bow.2", value = "Arc du Héros" }
+text{ key = "inventory.caption.item.bow.3", value = "Arc + Flèches de Feu" }
+text{ key = "inventory.caption.item.bow.4", value = "Arc + Flèches de Glace" }
+text{ key = "inventory.caption.item.bow.5", value = "Arc + Flèches de Lumière" }
+text{ key = "inventory.caption.item.bow.6", value = "Arc + Flèches Explosives" }
+text{ key = "inventory.caption.item.cloak_darkness.1", value = "Cape de l'Ombre" }
+text{ key = "inventory.caption.item.crystal_counter.1", value = "Magic Crystal" }
+text{ key = "inventory.caption.item.deku_nuts_counter.1", value = "Noix Mojo" }
+text{ key = "inventory.caption.item.deku_seed_counter.1", value = "Graines Mojo" }
+text{ key = "inventory.caption.item.dig_mit.1", value = "Griffes de Taupe" }
+text{ key = "inventory.caption.item.din_fire.1", value = "Feu de Din (10 PM)" }
+text{ key = "inventory.caption.item.dominion_rod.1", value = "Baton Anima" }
+text{ key = "inventory.caption.item.explosive_arrow_menu.1", value = "Flèche Explosive (1 Bombe)" }
+text{ key = "inventory.caption.item.farore_wind.1", value = "Vent de Farore (5 PM)" }
+text{ key = "inventory.caption.item.fire_arrow_menu.1", value = "Flèche de Feu (2PM)" }
+text{ key = "inventory.caption.item.fire_rod.1", value = "Baguette de Feu" }
+text{ key = "inventory.caption.item.fishing_rod.1", value = "Canne à Pêche" }
+text{ key = "inventory.caption.item.golden_plume_counter.1", value = "Plume Dorée" }
+text{ key = "inventory.caption.item.green_chuchu_counter.1", value = "Gelée Chuchu Verte" }
+text{ key = "inventory.caption.item.hammer.1", value = "Masse des Titans" }
+text{ key = "inventory.caption.item.hookshot.1", value = "Grappin" }
+text{ key = "inventory.caption.item.hookshot.2", value = "Double Grappin" }
+text{ key = "inventory.caption.item.ice_arrow_menu.1", value = "Flèche de Glace (4PM)" }
+text{ key = "inventory.caption.item.ice_rod.1", value = "Baguette de Glace" }
+text{ key = "inventory.caption.item.joy_pendant_counter.1", value = "Pendentif du Bonheur" }
+text{ key = "inventory.caption.item.knight_crest_counter.1", value = "Blason d'Epeiste" }
+text{ key = "inventory.caption.item.lamp.1", value = "Lanterne" }
+text{ key = "inventory.caption.item.light_arrow_menu.1", value = "Flèche de Lumière (8PM)" }
+text{ key = "inventory.caption.item.nayru_love.1", value = "Amour de Nayru (20 PM)" }
+text{ key = "inventory.caption.item.ocarina.1", value = "Ocarina" }
+text{ key = "inventory.caption.item.ore_counter.1", value = "Subrosian Ore" }
+text{ key = "inventory.caption.item.plume_counter.1", value = "Goddess Plume" }
+text{ key = "inventory.caption.item.pumpkin_counter.1", value = "Pumpkins" }
+text{ key = "inventory.caption.item.red_chuchu_counter.1", value = "Gelée Chuchu Rouge" }
+text{ key = "inventory.caption.item.regular_arrow.1", value = "Flèche" }
+text{ key = "inventory.caption.item.roc_cape.1", value = "Cape de Roc" }
+text{ key = "inventory.caption.item.skull_necklace_counter.1", value = "Collier Macabre" }
+text{ key = "inventory.caption.item.spoils_bag.1", value = "Sac à Butin" }
+text{ key = "inventory.caption.item.stick_counter.1", value = "Deku Stick" }
+text{ key = "inventory.caption.item.trading.1", value = "Odd Mushroom" }
+text{ key = "inventory.caption.item.trading.10", value = "Zora Scale" }
+text{ key = "inventory.caption.item.trading.11", value = "Frozen Fish" }
+text{ key = "inventory.caption.item.trading.12", value = "Culinary Arts$of Hyrule" }
+text{ key = "inventory.caption.item.trading.13", value = "Trading Sequence$Completed" }
+text{ key = "inventory.caption.item.trading.2", value = "Odd Potion" }
+text{ key = "inventory.caption.item.trading.3", value = "Deku Mask" }
+text{ key = "inventory.caption.item.trading.4", value = "Moon Tear" }
+text{ key = "inventory.caption.item.trading.5", value = "Crystal Ball" }
+text{ key = "inventory.caption.item.trading.6", value = "Tasty Meat" }
+text{ key = "inventory.caption.item.trading.7", value = "Dog Food" }
+text{ key = "inventory.caption.item.trading.8", value = "Bananas" }
+text{ key = "inventory.caption.item.trading.9", value = "Goron Vase" }
+text{ key = "inventory.caption.item.yellow_chuchu_counter.1", value = "Gelée Chuchu Jaune" }
+text{ key = "map.caption.boss_key", value = "Clé du Boss" }
+text{ key = "map.caption.compass", value = "Boussole" }
+text{ key = "map.caption.dungeon.1", value = "Temple du Crépusule" }
+text{ key = "map.caption.dungeon.10", value = "Celestia" }
+text{ key = "map.caption.dungeon.11", value = "Tour des Dieux" }
+text{ key = "map.caption.dungeon.12", value = "Château d'Hyrule" }
+text{ key = "map.caption.dungeon.13", value = "Monde des Illusions" }
+text{ key = "map.caption.dungeon.14", value = "Centre d'entrainement Gerudo" }
+text{ key = "map.caption.dungeon.15", value = "Tombeau Royale" }
+text{ key = "map.caption.dungeon.16", value = "Château d'Hyrule (Passé)" }
+text{ key = "map.caption.dungeon.2", value = "Sanctuaire Goron" }
+text{ key = "map.caption.dungeon.3", value = "Ruines Zora" }
+text{ key = "map.caption.dungeon.4", value = "Temple de la Forêt" }
+text{ key = "map.caption.dungeon.5", value = "Temple du Feu" }
+text{ key = "map.caption.dungeon.6", value = "Temple de la Terre" }
+text{ key = "map.caption.dungeon.7", value = "Temple de l'Eau" }
+text{ key = "map.caption.dungeon.8", value = "Temple de l'Esprit" }
+text{ key = "map.caption.dungeon.9", value = "Temple de l'Ombre" }
+text{ key = "map.caption.map", value = "Carte du Donjon" }
+text{ key = "map.caption.world.hyrule_field", value = "Château d'Hyrule" }
+text{ key = "map.caption.world.lost_woods", value = "Bois Perdus" }
+text{ key = "map.caption.world.undefined", value = "Carte du Monde" }
+text{ key = "map.gameplay.boss_name.0", value = "- Boss Name - $ Some random text about him" }
+text{ key = "map.gameplay.boss_name.1", value = "- Dragon Infernal - $ Roi Dodongo" }
+text{ key = "map.gameplay.name.dgn_fire", value = "Temple du Feu" }
+text{ key = "map.gameplay.name.dgn_forbidden_woods", value = "Bois Oublies" }
+text{ key = "map.gameplay.name.dgn_forest", value = "Temple de la Forêt" }
+text{ key = "map.gameplay.name.dgn_spirit", value = "Tour du Jugement" }
+text{ key = "map.gameplay.name.dgn_water_temple", value = "Temple de l'Eau" }
+text{ key = "map.gameplay.name.fishing_pond", value = "Etang" }
+text{ key = "map.gameplay.name.florescent", value = "Village Florescent" }
+text{ key = "map.gameplay.name.graveyard", value = "Cimetière" }
+text{ key = "map.gameplay.name.hyrule_field", value = "Plaine d'Hyrule" }
+text{ key = "map.gameplay.name.lost_woods", value = "Bois Perdus" }
+text{ key = "map.gameplay.name.rito", value = "Tour du Château des Tenèbres" }
+text{ key = "ocarina.learn.memorize_this.0", value = "Ecoute attentivement ..." }
+text{ key = "ocarina.learn.memorize_this.1", value = "Essayons de decrire cette inscription ..." }
+text{ key = "ocarina.learn.memorize_this.2", value = "Le cheval a l'air d'aimer cette musique ..." }
+text{ key = "ocarina.learn.memorize_this.3", value = "Memorise et essaye ..." }
+text{ key = "ocarina.learn.memorize_this.4", value = "Ce chant déchaine la violence ..." }
+text{ key = "ocarina.learn.memorize_this.5", value = "Ce chant est apaisant ..." }
+text{ key = "ocarina.learn.memorize_this.6", value = "C'est un secret pour tous ..." }
+text{ key = "ocarina.learn.memorize_this.7", value = "La journée semble interminable ..." }
+text{ key = "ocarina.learn.memorize_this.type.0", value = "Joue le" }
+text{ key = "ocarina.learn.memorize_this.type.1", value = "Joue la" }
+text{ key = "ocarina.learn.play_with.0", value = "Joue grace aux touches de direction et a \"action\"" }
+text{ key = "ocarina.you_played.0", value = "Vous jouez le" }
+text{ key = "ocarina.you_played.1", value = "Vous jouez la" }
+text{ key = "ocarina.you_played.2", value = "Vous jouez l'" }
+text{ key = "options.caption.press_action_change_aspect", value = "Appuie sur \"ACTION\"$pour changer de format" }
+text{ key = "options.caption.press_action_change_mode", value = "Appuie sur \"ACTION\"$pour modifier" }
+text{ key = "options.caption.press_action_customize_key", value = "Appuie sur \"ACTION\"$pour modifier cette touche" }
+text{ key = "options.caption.press_arrow_change", value = "Appuie sur < ou > pour$changer le volume" }
+text{ key = "options.caption.press_key", value = "Appuiyez sur une touche$sur le clavier ou le joypad" }
+text{ key = "options.command.action", value = "Action" }
+text{ key = "options.command.attack", value = "Attaque" }
+text{ key = "options.command.camera", value = "Camera" }
+text{ key = "options.command.down", value = "Bas" }
+text{ key = "options.command.item_1", value = "Obj. Gauche" }
+text{ key = "options.command.item_2", value = "Obj. Droite" }
+text{ key = "options.command.items", value = "Menu Objet" }
+text{ key = "options.command.left", value = "Gauche" }
+text{ key = "options.command.minimap", value = "Minicarte" }
+text{ key = "options.command.pause", value = "Pause" }
+text{ key = "options.command.right", value = "Droite" }
+text{ key = "options.command.shield", value = "Bouclier" }
+text{ key = "options.command.up", value = "Haut" }
+text{ key = "options.commands_column", value = "Contrôles" }
+text{ key = "options.joypad_column", value = "Joypad" }
+text{ key = "options.keyboard_column", value = "Clavier" }
+text{ key = "options.music", value = "Musique" }
+text{ key = "options.sound", value = "Sons" }
+text{ key = "options.video_mode.fullscreen", value = "Plein Ecran" }
+text{ key = "options.video_mode.windowed", value = "Fenêtre" }
+text{ key = "page", value = "Page" }
+text{ key = "quest_status.caption.aria_amulet", value = "Amulette Royale" }
+text{ key = "quest_status.caption.bomber_notebook", value = "Journal des Bombers" }
+text{ key = "quest_status.caption.flippers_1", value = "Ecaille Zora" }
+text{ key = "quest_status.caption.gerudo_membership_card", value = "Carte de membre Gerudo" }
+text{ key = "quest_status.caption.gold_skulltula", value = "Skulltula d'Or" }
+text{ key = "quest_status.caption.hero_mask", value = "Masque du Héros" }
+text{ key = "quest_status.caption.mail_bag", value = "Sac de Facteur" }
+text{ key = "quest_status.caption.medalions_1", value = "Emeraude Kokiri" }
+text{ key = "quest_status.caption.medalions_10", value = "Larula, Sage de l'Air" }
+text{ key = "quest_status.caption.medalions_11", value = "Zelda, Sage de la Lumière" }
+text{ key = "quest_status.caption.medalions_2", value = "Rubis Goron" }
+text{ key = "quest_status.caption.medalions_3", value = "Saphire Zora" }
+text{ key = "quest_status.caption.medalions_4", value = "Sara, Sage de la Forêt" }
+text{ key = "quest_status.caption.medalions_5", value = "Hilda, Sage du Feu" }
+text{ key = "quest_status.caption.medalions_6", value = "Ryna, Sage de la Terre" }
+text{ key = "quest_status.caption.medalions_7", value = "Ruta, Sage de l'Eau" }
+text{ key = "quest_status.caption.medalions_8", value = "Naura, Sage de l'Esprit" }
+text{ key = "quest_status.caption.medalions_9", value = "Irya, Sage de l'Ombre" }
+text{ key = "quest_status.caption.ocarina_song_1", value = "Berceuse de Zelda" }
+text{ key = "quest_status.caption.ocarina_song_10", value = "Bolero du Feu" }
+text{ key = "quest_status.caption.ocarina_song_11", value = "Concerto de la Terre" }
+text{ key = "quest_status.caption.ocarina_song_12", value = "Serenade de l'Eau" }
+text{ key = "quest_status.caption.ocarina_song_13", value = "Requiem de l'Esprit" }
+text{ key = "quest_status.caption.ocarina_song_14", value = "Symphonie de l'Ombre" }
+text{ key = "quest_status.caption.ocarina_song_15", value = "Sonate de l'Air" }
+text{ key = "quest_status.caption.ocarina_song_16", value = "Prelude de la Lumière" }
+text{ key = "quest_status.caption.ocarina_song_2", value = "Chant de l'Envol" }
+text{ key = "quest_status.caption.ocarina_song_3", value = "Chant d'Epona" }
+text{ key = "quest_status.caption.ocarina_song_4", value = "Chant du Soleil" }
+text{ key = "quest_status.caption.ocarina_song_5", value = "Chant des Tempetes" }
+text{ key = "quest_status.caption.ocarina_song_6", value = "Chant d'Apaisement" }
+text{ key = "quest_status.caption.ocarina_song_7", value = "Ode de Byrna" }
+text{ key = "quest_status.caption.ocarina_song_8", value = "Chant du Temps" }
+text{ key = "quest_status.caption.ocarina_song_9", value = "Menuet des Bois" }
+text{ key = "quest_status.caption.pieces_of_heart", value = "Quart de Coeur" }
+text{ key = "quest_status.caption.poe_souls", value = "Ame de Spectre" }
+text{ key = "quest_status.caption.skill_1", value = "Attaque Circulaire" }
+text{ key = "quest_status.caption.skill_2", value = "Brise Roc" }
+text{ key = "quest_status.caption.skill_3", value = "Attaque Critique" }
+text{ key = "quest_status.caption.skill_4", value = "Lame du Peril" }
+text{ key = "quest_status.caption.skill_5", value = "Epee Pleine de Vie" }
+text{ key = "quest_status.caption.skill_6", value = "Attaque Plongée" }
+text{ key = "quest_status.caption.skill_7", value = "Mega Attaque Tornade" }
+text{ key = "quest_status.caption.skill_display_1", value = "Appuies et maintiens la touche$ATTAQUE enfoncee. Une fois chargee,$relache la touche !" }
+text{ key = "quest_status.caption.skill_display_2", value = "Tu peux maintenant briser des$pots et quelques rochers avec ton$epee, c'est tout !" }
+text{ key = "quest_status.caption.skill_display_3", value = "Lorsque tu roules, appuies sur$ATTAQUE, tu seras projette en avant,$blessant tout ennemis critiquement !" }
+text{ key = "quest_status.caption.skill_display_4", value = "Quand ta vie est faible, donne$un coup d'epee, une image de la lame$se creera !" }
+text{ key = "quest_status.caption.skill_display_6", value = "Equipes la Cape de Roc et une$fois en l'air, appuies sur la touche$ATTAQUE !" }
+text{ key = "quest_status.caption.skill_display_title_1", value = "Attaque Tornade" }
+text{ key = "quest_status.caption.skill_display_title_2", value = "Brise Roc" }
+text{ key = "quest_status.caption.skill_display_title_3", value = "Attaque Critique" }
+text{ key = "quest_status.caption.skill_display_title_4", value = "Lame du Peril" }
+text{ key = "quest_status.caption.skill_display_title_6", value = "Attaque Plongee" }
+text{ key = "quest_status_mail.mail.dsp", value = "Display Test" }
+text{ key = "quest_status_mail.mail.dsptest", value = "Scroll Test" }
+text{ key = "quest_status_mail.mail.newmailTest", value = "This is a long display heuaheufdkblqdknfbklqdmnvlskdjn" }
+text{ key = "quest_status_mail.mail.postman0", value = "Fonctionnement de la poste d'Hyrule." }
+text{ key = "quest_status_mail.mail.saria0", value = "Saria: Thank you for your help !" }
+text{ key = "quest_status_mail.mail.zelda0", value = "Post System: I'm the Postman, here's some information." }
+text{ key = "save_dialog.continue_question_0", value = "Souhaitez-vous continuer la partie ?" }
+text{ key = "save_dialog.continue_question_1", value = "Les données non sauvegardés sera perdue." }
+text{ key = "save_dialog.game_over.save.0", value = "Souhaitez-vous sauvegarder ?" }
+text{ key = "save_dialog.game_over.save.1", value = "Continuer la partie ?" }
+text{ key = "save_dialog.no", value = "Non" }
+text{ key = "save_dialog.save_question_0", value = "Voulez-vous" }
+text{ key = "save_dialog.save_question_1", value = "sauvegarder votre progression ?" }
+text{ key = "save_dialog.saved", value = "Partie sauvegardée !" }
+text{ key = "save_dialog.saving", value = "Sauvegarde en cours ..." }
+text{ key = "save_dialog.yes", value = "Oui" }
+text{ key = "select_screen_format", value = "Séléctionnez votre format d'écran" }
+text{ key = "selection_menu.back", value = "Retour" }
+text{ key = "selection_menu.big_no", value = "NON" }
+text{ key = "selection_menu.big_yes", value = "OUI" }
+text{ key = "selection_menu.cancel", value = "Annuler" }
+text{ key = "selection_menu.choose", value = "Choisir" }
+text{ key = "selection_menu.continue", value = "Continuer" }
+text{ key = "selection_menu.erase", value = "Effacer" }
+text{ key = "selection_menu.file", value = "Quête" }
+text{ key = "selection_menu.last_save", value = "Dernière sauvegarde: " }
+text{ key = "selection_menu.message.ftplaying1", value = "Il semblerait que ce soit la première fois que" }
+text{ key = "selection_menu.message.ftplaying2", value = "vous jouez à The Legend of Zelda: Eternal Struggle ?" }
+text{ key = "selection_menu.message.ftplaying3", value = "On va commencer par parametrer les commandes du jeu." }
+text{ key = "selection_menu.message.ftplaying4", value = "Je vous recommande d'utiliser la touche \"Action\"" }
+text{ key = "selection_menu.message.ftplaying5", value = "du clavier dans un premier temps pour configurer un Joypad" }
+text{ key = "selection_menu.message.ftplaying6", value = "car les touches peuvent differer d'un constructeur à un autre." }
+text{ key = "selection_menu.message.ftplaying7", value = "Aidez-vous du texte en bas pour connaitre les touches." }
+text{ key = "selection_menu.message.ftplaying8", value = "Appuyez sur la touche Action pour continuer." }
+text{ key = "selection_menu.message.ftplaying9", value = "Appuyez sur la touche Attaque quand vous aurez terminer." }
+text{ key = "selection_menu.modes.3heartsrun", value = "3 coeurs" }
+text{ key = "selection_menu.modes.hero_mode", value = "Héroïque" }
+text{ key = "selection_menu.modes.masterquest", value = "Master Quest" }
+text{ key = "selection_menu.modes.mirror", value = "Mirroir" }
+text{ key = "selection_menu.modes.mirror_hero", value = "Mirroir Héros" }
+text{ key = "selection_menu.modes.normal_run", value = "Normale" }
+text{ key = "selection_menu.new_game", value = "Nouvelle Partie" }
+text{ key = "selection_menu.no", value = "Non" }
+text{ key = "selection_menu.options", value = "Options" }
+text{ key = "selection_menu.options.aspect_ratio", value = "Format d'écran" }
+text{ key = "selection_menu.options.back", value = "Retour" }
+text{ key = "selection_menu.options.blank", value = " " }
+text{ key = "selection_menu.options.controls", value = "Gestion des commandes" }
+text{ key = "selection_menu.options.language", value = "Langage" }
+text{ key = "selection_menu.options.music_volume", value = "Volume Musique (BGM)" }
+text{ key = "selection_menu.options.sound_volume", value = "Volume Sons    (SE)" }
+text{ key = "selection_menu.options.video_mode", value = "Filtre Vidéo" }
+text{ key = "selection_menu.phase.change_input", value = "Pressez une touche" }
+text{ key = "selection_menu.phase.choose_mode", value = "Choisissez le mode de difficulté." }
+text{ key = "selection_menu.phase.choose_name", value = "Comment t'appelles-tu ?" }
+text{ key = "selection_menu.phase.confirm", value = "Êtes-vous sur ?" }
+text{ key = "selection_menu.phase.controls", value = "Paramètrage des commandes" }
+text{ key = "selection_menu.phase.erase_file", value = "Effacer cette progression ?" }
+text{ key = "selection_menu.phase.options", value = "'Espace' : modifier" }
+text{ key = "selection_menu.phase.options.changing", value = "Modifier avec < ou >" }
+text{ key = "selection_menu.phase.select_file", value = "Charger une Quête" }
+text{ key = "selection_menu.phase.start_this", value = "Ouvrir cette Quête ?" }
+text{ key = "selection_menu.phase.welcome", value = "Bienvenue !" }
+text{ key = "selection_menu.quit", value = "Quitter" }
+text{ key = "selection_menu.yes", value = "Oui" }
+text{ key = "shop.items.arrow.1", value = "Flèches (1)" }
+text{ key = "shop.items.arrow.2", value = "Flèches (5)" }
+text{ key = "shop.items.arrow.3", value = "Flèches (10)" }
+text{ key = "shop.items.arrow.determinant", value = "ces" }
+text{ key = "shop.items.arrow.item_desc", value = "Projectile pouvant blesser a distance. $Il te faut un carquois pour en transporter." }
+text{ key = "shop.items.bomb.1", value = "Bombes (1)" }
+text{ key = "shop.items.bomb.2", value = "Bombes (5)" }
+text{ key = "shop.items.bomb.3", value = "Bombes (10)" }
+text{ key = "shop.items.bomb.determinant", value = "ces" }
+text{ key = "shop.items.bomb.item_desc", value = "Peuvent faire énormement de dégat en explosant. $Il te faut un sac pour en transporter." }
+text{ key = "shop.items.bomb_bag.1", value = "Sac de Bombe" }
+text{ key = "shop.items.bomb_bag.2", value = "Grand Sac de Bombe" }
+text{ key = "shop.items.bomb_bag.3", value = "Sac de Bombe Géant" }
+text{ key = "shop.items.bomb_bag.determinant", value = "ce" }
+text{ key = "shop.items.bomb_bag.item_desc", value = "Te permet de transporter plus de bombe que tu le peux $actuellement. Pratique." }
+text{ key = "shop.items.currency", value = "Rubis" }
+text{ key = "shop.items.deku_nuts.1", value = "Noix Mojo (1)" }
+text{ key = "shop.items.deku_nuts.2", value = "Noix Mojo (5)" }
+text{ key = "shop.items.deku_nuts.3", value = "Noix Mojo (10)" }
+text{ key = "shop.items.deku_nuts.determinant", value = "ces" }
+text{ key = "shop.items.deku_nuts.item_desc", value = "Crée un flash étourdissant les enemis alentours.$Il te faut un sac pour en transporter." }
+text{ key = "shop.items.heart.1", value = "Coeur de vie" }
+text{ key = "shop.items.heart.determinant", value = "ce" }
+text{ key = "shop.items.heart.item_desc", value = "Vous soigne d'un coeur de vie." }
+text{ key = "shop.items.heart_piece.1", value = "Quart de Coeur" }
+text{ key = "shop.items.heart_piece.determinant", value = "ce" }
+text{ key = "shop.items.heart_piece.item_desc", value = "Un fragment de Récéptacle de Coeur ... Il est dit$qu'en assemblant 4 on crée un Récéptacle rendant$plus endurant." }
+text{ key = "shop.items.joy_pendant_counter.1", value = "Pendentif du Bonheur" }
+text{ key = "shop.items.joy_pendant_counter.determinant", value = "ce" }
+text{ key = "shop.items.joy_pendant_counter.item_desc", value = "On dit que heureux est celui qui en amassera le plus$et bonté soi son âme." }
+text{ key = "shop.items.price", value = "Prix:" }
+text{ key = "shop.items.tunic.2", value = "Tunique Goron" }
+text{ key = "shop.items.tunic.3", value = "Tunique Zora" }
+text{ key = "shop.items.tunic.determinant", value = "cette" }
+text{ key = "shop.items.tunic.item_desc", value = "Te rend résistant et donc moins vulnerable à$certaines conditions de certaines regions." }
+text{ key = "shop.shopkeeper.0.description", value = "Séléctionnez un objet grace aux touches$directionnelles. Appuyez sur Action pour choisir ou$Attaque pour annuler.$Faites votre choix !" }
+text{ key = "shop.shopkeeper.1.description", value = "Selectionnez un objet grace aux touches directionnelles$Action pour choisir et Attaque pour annuler.$Faites votre choix !" }
+text{ key = "title_screen.or", value = "ou" }
+text{ key = "title_screen.press", value = "Appuyez sur" }
+text{ key = "title_screen.website", value = "Copyright Nintendo - ReyKheys' Team" }

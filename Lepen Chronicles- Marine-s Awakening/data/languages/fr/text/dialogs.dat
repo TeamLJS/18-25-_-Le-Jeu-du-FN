@@ -1,0 +1,3666 @@
+dialog{
+  id = "_equipment_description.bomb_bag.1",
+  icon = "53",
+  other_icon = "got_bomb_bag",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce sac te permet de stocker des $\[red\]Bombes$\[white\].$0
+Il peut en contenir $\[red\]$/bomb_bag/$\[white\].
+]]
+}
+
+dialog{
+  id = "_equipment_description.bombchu_bag.1",
+  icon = "34",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce sac te permet de stocker des $\[red\]Missiles
+Teigneux$\[white\].$0
+Il peut en contenir $\[red\]$/bombchu_bag/$\[white\].
+]]
+}
+
+dialog{
+  id = "_equipment_description.climb_ring.1",
+  icon = "80",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cet anneau te permet de grimper des
+pentes rocailleuses.$0
+Il se peut qu'il y'en ait une pas loin.
+]]
+}
+
+dialog{
+  id = "_equipment_description.deku_nuts_bag.1",
+  icon = "39",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce sac te permet de stocker des $\[red\]Noix Mojo$\[white\].$0
+Il peut en contenir $\[red\]$/deku_nuts_bag/$\[white\].
+]]
+}
+
+dialog{
+  id = "_equipment_description.flippers.1",
+  icon = "18",
+  skip = "current",
+  text = [[
+$\[red\]- Ecaille de Nageur -$\[white\]
+L'ecaille te permet de nager librement dans
+de l'eau profonde, attention aux obstacles !
+]]
+}
+
+dialog{
+  id = "_equipment_description.flippers.2",
+  text = [[
+$\[red\]- Ecaille Zora -$\[white\]
+L'ecaille Zora te permet de nager librement 
+dans de l'eau profonde mais aussi de plonger
+pendant une duree limitee afin d'y denicher
+nombreux objets perdu dans les abysses.
+]]
+}
+
+dialog{
+  id = "_equipment_description.glove.1",
+  icon = "32",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce gant te permet de soulever de petites
+charges, comme par exemple des rochers et 
+deraciner des Chous-Peteurs.$0
+]]
+}
+
+dialog{
+  id = "_equipment_description.glove.2",
+  icon = "19",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Tu ressens la force émaner de ce gant,
+pratiquement plus rien ne te resiste en
+terme de force.
+]]
+}
+
+dialog{
+  id = "_equipment_description.quiver.1",
+  icon = "56",
+  other_icon = "item_quiver_possession",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce carquois te permet de stocker des $\[red\]Flèches$\[white\].$0
+Il peut en contenir $\[red\]$/quiver/$\[white\].
+]]
+}
+
+dialog{
+  id = "_equipment_description.rupee_bag.1",
+  icon = "120",
+  other_icon = "i1824",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Les $\[green\]Rubis$\[white\] sont la monnaie d'Hyrule.$0
+Ce sac te permet de contenir $\[red\]$/rupee_bag/$\[white\] Rubis.
+]]
+}
+
+dialog{
+  id = "_equipment_description.shield.1",
+  icon = "63",
+  restrict_line = "",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce bouclier vous offre une défence 
+rudimentaire contre certaines attaques. 
+Attention, cependant ce bouclier est $\[red\]très
+vulnérable au feu$\[white\] du à sa conception toute
+faite de bois !
+]]
+}
+
+dialog{
+  id = "_equipment_description.shield.2",
+  icon = "64",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Plus résistant, ce bouclier augmente votre
+défence. Il resiste beaucoup aux choc
+thermiques.
+]]
+}
+
+dialog{
+  id = "_equipment_description.shield.3",
+  icon = "65",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce bouclier est capable de réfléchir la 
+lumière ainsi que certaines attaques.
+
+Lorsqu'un projectile se trouve près de
+vous, appuyez sur $\[red\]$(shield)$\[white\]
+afin de renvoyer l'attaque.$0 Cette attaque
+infligera 2 fois plus de dommage.
+]]
+}
+
+dialog{
+  id = "_item_description",
+  text = [[
+
+]]
+}
+
+dialog{
+  id = "_item_description.bomb_counter.1",
+  icon = "1",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Utilise les $v pour faire exploser tout
+type de choses, attention à ne pas vous 
+retrouver dans l'explosion!
+]]
+}
+
+dialog{
+  id = "_item_description.bombchu_counter.1",
+  icon = "103",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ces missiles aux allures adorables peuvent se
+faufiller dans des petits recoins inaccessible
+par les bombes normales.
+]]
+}
+
+dialog{
+  id = "_item_description.boomerang.1",
+  icon = "4",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Le Boomerang te permet d'immobiliser les 
+ennemis et d'attrapper / activer des 
+objets distants.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.1",
+  icon = "7",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Permet de stocker bon nombre de choses
+présent dans ce monde.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.10",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Attention, ca pique !
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.12",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Rien de meilleur que du lait frais venant du Ranch
+Romani.$0 Restaure 8 coeurs et peut se boire 2 fois !
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.13",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Rien de meilleur que du lait frais venant du Ranch
+Romani.$0 Restaure 8 coeurs !
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.14",
+  skip = "current",
+  text = [[
+$\[red\]- Chateau Romani -$\[white\]
+Restaure toute votre vie,$0 restaure votre magie et la
+rend inepuisable.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.15",
+  skip = "current",
+  text = [[
+$\[red\]- Insecte -$\[white\]
+Un insecte dans une bouteille ...$0 Que dire d'autre ?$0
+
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.2",
+  icon = "8",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Utile pour arroser des coins fertiles.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.3",
+  icon = "9",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette potion, à base de Chu Chu rouge permet de
+restaurer toute votre vie.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.4",
+  icon = "10",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette potion a base de Chu Chu vert permet de
+restaurer toute votre energie magique.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.5",
+  icon = "11",
+  skip = "current",
+  text = [[
+This bottle contains Stamina Potion.
+It restores your stamina meter.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.6",
+  icon = "12",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette potion a base de Chu Chu bleu permet de
+restaurer toute votre vie et votre energie magique.
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.7",
+  icon = "14",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette $v, une fois relachée vous restaurera
+$\[red\]7 coeurs$\[white\].$0 Elle vous viendra en aide si vous
+êtes en mauvaise posture. 
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.8",
+  icon = "14",
+  skip = "current",
+  text = [[
+This bottle contains a Poe Soul.
+Some say they have useful
+knowledge...
+]]
+}
+
+dialog{
+  id = "_item_description.bottle.9",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette delicieuse mixture a base de potiron vous 
+rendra 9 coeurs. 
+]]
+}
+
+dialog{
+  id = "_item_description.bow.1",
+  icon = "2",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Appuyez sur le bouton auquel vous l'avez
+assigné, visez, puis lâchez le bouton pour
+décocher une Flèche. 
+]]
+}
+
+dialog{
+  id = "_item_description.bow.2",
+  icon = "3",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Appuyez sur le bouton auquel vous l'avez
+assigné, visez, puis lâchez le bouton pour
+décocher une Flèche.
+]]
+}
+
+dialog{
+  id = "_item_description.bow.3",
+  icon = "20",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Combiné à l'Arc, les $\[red\]Flèches de Feu$\[white\] peuvent
+brûler / blesser critiquement $\[red\]vos$\[white\] cibles !
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.bow.4",
+  icon = "21",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Combiné à l'Arc, les $\[blue\]Flèches de Glace$\[white\]
+peuvent geler vos cibles !
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.bow.5",
+  icon = "145",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+La lumière divine des $\[yellow\]Flèches de Lumière$\[white\]
+transpercent le mal.
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.bow.6",
+  icon = "22",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Les $\[blue\]Flèches Explosives$\[white\] n'explosent qu'en cas
+de contact avec un obstacle. Créant une explosion.
+Assurez-vous d'avoir au moins $\[red\]une Bombe$\[white\]!
+]]
+}
+
+dialog{
+  id = "_item_description.cloak_darkness.1",
+  icon = "97",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Un pouvoir terrifiant se dégage de cette cape.
+Son utilisateur peut se rendre invisible afin
+de dénicher des endroits invisible à l'oeil nu
+et de combattre dans l'ombre.
+La cape consomme de l'$\[green\]énérgie magique$\[white\],
+lorsque celle ci s'épuise, la cape consumera
+votre vie.
+]]
+}
+
+dialog{
+  id = "_item_description.deku_nuts_counter.1",
+  icon = "100",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+A l'impact, les Noix Mojo produitont un
+énorme flash qui étourdira tout enemis se 
+trouvent dans l'onde du flash.
+]]
+}
+
+dialog{
+  id = "_item_description.dig_mit.1",
+  icon = "17",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Permet de se frayer un chemin parmi les murs
+de terre.
+Creusez! Creusez comme un fou!
+]]
+}
+
+dialog{
+  id = "_item_description.din_fire.1",
+  icon = "140",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Crée une onde de choc de feu et brûle tout
+sur son passage.
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.dominion_rod.1",
+  icon = "96",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Appuyez sur le bouton auquel vous l'avez
+assigné, visez, puis lâchez le bouton pour
+insuffler un esprit à une statue de pierre.
+La statue ainsi animée imitera vos 
+mouvements.
+Pour arrêter, il vous suffira d'appuyer sur
+la touche ACTION ($\[green\]$(action)$\[white\]).
+]]
+}
+
+dialog{
+  id = "_item_description.explosive_arrow_menu.1",
+  icon = "82",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Combiné à l'Arc, les $\[red\]flèches explosives$\[white\] 
+exploseront une fois un obstacle atteint.
+Veillez à toujours avoir une $\[red\]Bombe$\[white\].
+]]
+}
+
+dialog{
+  id = "_item_description.farore_wind.1",
+  icon = "141",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Crée un point de téléportation en intérieur.
+Utile pour retourner en début de donjon.
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.fire_arrow_menu.1",
+  icon = "104",
+  input_number = "i1824",
+  position = "bottom",
+  skip = "current",
+  style = "great_fairy",
+  text = [[
+$\[red\]- $v -$\[white\]
+Combiné à l'Arc, les $\[red\]flèches de feu$\[white\] brûleront
+et infligeront de sérieux dégats.
+Surveillez votre $\[green\]Energie Magique$\[white\].
+]]
+}
+
+dialog{
+  id = "_item_description.fire_rod.1",
+  icon = "109",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Enflamme tout ce qui se trouve sur son 
+passage. $0
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.fishing_rod.1",
+  icon = "29",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Une canne toute simple pour faire de
+la pêche au coup.
+
+Pour pêcher, faites face à l'eau 
+et appuyez sur le bouton assigné
+pour lancer le bouchon, appuyez sur
+ACTION ($\[green\]$(action)$\[white\]) pour ferrer.
+]]
+}
+
+dialog{
+  id = "_item_description.hammer.1",
+  icon = "27",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette masse permet d'imiter d'un coup violent
+la puissance de frappe d'un Goron. 
+]]
+}
+
+dialog{
+  id = "_item_description.hookshot.1",
+  icon = "6",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Grace à sa longue chaine, le grappin te permet
+de te hisser à des endroits innaccessibles ou
+à tracter des objets vers soi.
+Appuyez sur le bouton auquel vous l'avez
+assigné, visez, puis lâchez le bouton pour
+lancer le Grappin.
+Ne s'accroche qu'à certains type de surface.
+]]
+}
+
+dialog{
+  id = "_item_description.ice_arrow_menu.1",
+  icon = "105",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Combiné à l'Arc, les $\[blue\]flèches de glace$\[white\] gèleront
+tout ce qui se trouve à sa portée.
+Surveillez votre $\[green\]Energie Magique$\[white\].
+]]
+}
+
+dialog{
+  id = "_item_description.ice_rod.1",
+  icon = "99",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Gèle toute entitée se trouvant à sa portée. $0
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.lamp.1",
+  icon = "5",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette lanterne dissipe l'obscurité.$0
+Quand vous êtes à l'arrêt, appuyez sur
+ACTION ($\[green\]$(action)$\[white\]) pour l'éteindre.
+Appuyez sur la touche auquel la Lanterne est
+assignée pour allumer quelque chose avec.$0
+
+Il lui faut de $\[yellow\]l'huile$\[white\] pour briller.
+]]
+}
+
+dialog{
+  id = "_item_description.light_arrow_menu.1",
+  icon = "106",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Combiné à l'Arc, les $\[yellow\]flèches de lumière$\[white\]
+purifiront tout ce qui se trouve à sa portée.
+Surveillez votre $\[green\]Energie Magique$\[white\].
+]]
+}
+
+dialog{
+  id = "_item_description.nayru_love.1",
+  icon = "142",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Capable de vous protéger des coups pendant
+un court temps.
+Surveillez votre $\[green\]jauge de Magie$\[white\] !
+]]
+}
+
+dialog{
+  id = "_item_description.ocarina.1",
+  icon = "36",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Instrument de la Famille Royale ayant de
+mysterieux pouvoir. Voir l'écran $\[red\]Status Quête$\[white\]
+pour voir les melodies.
+]]
+}
+
+dialog{
+  id = "_item_description.regular_arrow.1",
+  icon = "83",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Flèche de base, elle n'infligent que des
+dégats brûts.
+Veillez à toujours en avoir.
+]]
+}
+
+dialog{
+  id = "_item_description.roc_cape.1",
+  icon = "98",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Elle permet de faire des vols planés
+en maintenant le bouton enfoncé.
+Regardez ou vous atterissez !
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.1",
+  icon = "130",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Ce sac contient tout ce que vous avez amasser 
+auprès de diverses créatures.$0
+Qui sait à quoi peut servir ces choses ...
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.blue_chuchu_counter.1",
+  icon = "137",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette $\[blue\]Gelée Bleue$\[white\] est riche en composants
+aux vertus physiques étonnantes, mais elle ne
+peut pas être utilisée telle quelle.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.golden_plume_counter.1",
+  icon = "134",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Une étrange aura émane de cette jolie
+plume dorée. Les jeunes filles qui ont des
+ailes rêvent toutes d'en revêtir de pareilles.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.green_chuchu_counter.1",
+  icon = "136",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette $\[green\]Gelée Verte$\[white\] régénère l'Energie
+Magique, mais elle ne peut pas être utilisée
+telle quelle.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.joy_pendant_counter.1",
+  icon = "146",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+A la manière des papillons attirés par les
+fleurs, on dit ces pendentifs attirés par ceux
+qui font le bonheur de leur entourage.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.knight_crest_counter.1",
+  icon = "133",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Quiconque pratiquant le maniement de l'épée
+en sait la valeur. Qui sait ce que cela
+veut-il bien dire.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.red_chuchu_counter.1",
+  icon = "135",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette $\[red\]Gelée Rouge$\[white\] est hautement revitalisante,
+mais elle ne peut pas être utilisée
+telle quelle.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.skull_necklace_counter.1",
+  icon = "132",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+A première vue, ce collier semble sans
+intérêt et sans valeur, mais on le dit très
+recherché par certaines personnes.
+]]
+}
+
+dialog{
+  id = "_item_description.spoils_bag.items.yellow_chuchu_counter.1",
+  icon = "138",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cette $\[yellow\]Gelée Jaune$\[white\] est capable de doubler la
+défence pour un temps limité, mais elle ne
+peut pas être utilisée telle quelle.
+]]
+}
+
+dialog{
+  id = "_item_description.stick_counter.1",
+  icon = "26",
+  skip = "current",
+  text = [[
+$r- Bâton Mojo - $w
+Les Bâtons mojos proviennent d'un arbre jadis 
+très vénéré. Ils peuvent servir d'armes et 
+peuvent être allumés grace a une flamme et
+bruler des toiles, etc.
+]]
+}
+
+dialog{
+  id = "_item_description.trading.1",
+  icon = "40",
+  skip = "current",
+  text = [[
+It's an Odd Mushroom with a very
+pungent aroma. Take it to a potion
+maker, probably.
+]]
+}
+
+dialog{
+  id = "_item_description.trading.10",
+  icon = "49",
+  skip = "current",
+  text = [[
+It's a scale from one of the Zora
+people. How will this be useful?
+]]
+}
+
+dialog{
+  id = "_item_description.trading.11",
+  icon = "50",
+  skip = "current",
+  text = [[
+It's a frozen fish. Not so sure this
+was trading up...
+]]
+}
+
+dialog{
+  id = "_item_description.trading.12",
+  icon = "51",
+  skip = "current",
+  text = [[
+It's the most famous cookbook in
+all Hyrule!
+This could be valuable!
+]]
+}
+
+dialog{
+  id = "_item_description.trading.13",
+  text = [[
+You finished the trading sequence!
+Now go use your Rito Feather!
+]]
+}
+
+dialog{
+  id = "_item_description.trading.2",
+  icon = "41",
+  skip = "current",
+  text = [[
+It's an Odd Potion. What do you
+think you should do with it?
+]]
+}
+
+dialog{
+  id = "_item_description.trading.3",
+  icon = "42",
+  skip = "current",
+  text = [[
+It's a mask in the form of a Deku.
+Maybe someone will like it?
+]]
+}
+
+dialog{
+  id = "_item_description.trading.4",
+  icon = "43",
+  skip = "current",
+  text = [[
+It's said to be a tear from the
+moon itself.$0 It glistens!
+]]
+}
+
+dialog{
+  id = "_item_description.trading.5",
+  icon = "44",
+  skip = "current",
+  text = [[
+It's a shining ball made from
+pure crystal.
+]]
+}
+
+dialog{
+  id = "_item_description.trading.6",
+  icon = "45",
+  skip = "current",
+  text = [[
+It's supposed to be tasty meat.$0
+Not sure it's actually edible.
+]]
+}
+
+dialog{
+  id = "_item_description.trading.7",
+  icon = "46",
+  skip = "current",
+  text = [[
+It's some interesing looking dog
+food. Maybe someone other than a
+dog will like it?
+]]
+}
+
+dialog{
+  id = "_item_description.trading.8",
+  icon = "47",
+  skip = "current",
+  text = [[
+It's a bunch of delicious looking
+bananas!
+]]
+}
+
+dialog{
+  id = "_item_description.trading.9",
+  icon = "48",
+  skip = "current",
+  text = [[
+It's a beautiful vase fashioned by
+the Goron people.
+]]
+}
+
+dialog{
+  id = "_map_description.boss_key",
+  icon = "73",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+La $\[red\]Clé du Boss$\[white\] permet d'acceder dans
+l'$\[red\]Antre du Boss$\[white\] de ce donjon.$0
+Elle ne fonctionne qu'avec la $\[red\]Grande Serrure$\[white\].
+]]
+}
+
+dialog{
+  id = "_map_description.compass",
+  icon = "71",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+La $\[red\]Boussole$\[white\] permet d'afficher tout les
+$\[red\]trésors$\[white\] présent en ce lieu sur
+la $\[blue\]Minicarte$\[white\].
+
+Pour désactiver / activer la minicarte,
+appuyez sur $\[green\]$(minimap)$\[white\].
+]]
+}
+
+dialog{
+  id = "_map_description.map",
+  icon = "70",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Vous permet d'afficher une $\[blue\]Minicarte$\[white\] dans
+ce menu ainsi que sur l'interface afin de
+vous repérer en ce lieu.
+
+Pour désactiver / activer la minicarte,
+appuyez sur $\[green\]$(minimap)$\[white\].
+]]
+}
+
+dialog{
+  id = "_ocarina.0.learned",
+  text = [[
+Test
+]]
+}
+
+dialog{
+  id = "_ocarina.10.learned",
+  text = [[
+Vous apprenez le $bConcerto de la Terre$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.10.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter à la $\[brown\]Crypte de la Terre$\[white\] ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.11.learned",
+  text = [[
+Vous apprenez le $bSérénade de l'Eau$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.11.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[blue\]Lac Hylia$\[white\] ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.12.learned",
+  text = [[
+Vous apprenez le $oRequiem de l'Esprit$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.12.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[orange\]Desert des Lamentations$\[white\] ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.13.learned",
+  text = [[
+Vous apprenez le $pNocturne de l'Ombre$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.13.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[purple\]Cimetière$\[white\] ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.14.learned",
+  text = [[
+Vous apprenez la $cSonate de l'Air$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.14.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[cyan\]Village dans les Cieux$\[white\]  ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.15.learned",
+  text = [[
+Vous apprenez la $yPrélude de la Lumière$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.15.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[yellow\]Temple du Temps$\[white\] ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.3.learned",
+  restrict_line = "",
+  text = [[
+
+    Vous apprenez le $\[yellow\]Chant du Soleil$\[white\]!
+]]
+}
+
+dialog{
+  id = "_ocarina.7.played",
+  question = "1",
+  text = [[
+Retourner à l'aube du jour ?
+$gOui
+Non
+]]
+}
+
+dialog{
+  id = "_ocarina.8.learned",
+  text = [[
+Vous apprenez le $\[green\]Minuet des Bois$\[white\].
+]]
+}
+
+dialog{
+  id = "_ocarina.8.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[green\]Bosquet Sacré$\[white\]?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.9.learned",
+  text = [[
+Vous apprenez le $rBolero du Feu$w.
+]]
+}
+
+dialog{
+  id = "_ocarina.9.played",
+  question = "1",
+  restrict_line = "",
+  text = [[
+Se téléporter au $\[red\]Cratère du Péril$\[white\] ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "_ocarina.played_but_no_effect.0",
+  skip = "current",
+  text = [[
+Tes notes ont resonnees loin mais rien ne semble
+se produire ...
+]]
+}
+
+dialog{
+  id = "_quest_description.10",
+  icon = "129",
+  skip = "current",
+  text = [[
+$\[brown\]- $v -$\[white\]
+L'une des sages, vous gardez son esprit après 
+l'avoir sauvée dans le $\[brown\]Temple de la Terre$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.11",
+  icon = "116",
+  skip = "current",
+  text = [[
+$\[blue\]- $v -$\[white\]
+L'une des sages, vous gardez son esprit après 
+l'avoir sauvée dans le $\[blue\]Temple de l'Eau$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.12",
+  icon = "117",
+  skip = "current",
+  text = [[
+$\[orange\]- $v -$\[white\]
+L'une des sages, vous gardez son esprit après 
+l'avoir sauvée dans le $\[orange\]Temple de l'Esprit$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.13",
+  icon = "118",
+  skip = "current",
+  text = [[
+$\[purple\]- $v -$\[white\]
+L'une des sages, vous gardez son esprit après 
+l'avoir sauvée dans le $\[purple\]Temple de l'Ombre$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.14",
+  icon = "119",
+  skip = "current",
+  text = [[
+$\[cyan\]- $v -$\[white\]
+L'une des sages, vous gardez son esprit après 
+l'avoir sauvée à $\[cyan\]Céléstia$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.15",
+  icon = "113",
+  skip = "current",
+  text = [[
+$\[yellow\]- $v -$\[white\]
+La dernière des Sages, Princesse d'Hyrule.
+Vous gardez avec vous son esprit après l'avoir
+sauvée dans le $\[yellow\]Temple de la Lumière$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.3",
+  icon = "107",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+On dit que ces $\[yellow\]$v$\[white\] ont
+la possibilité de détruire des malédictions.
+Vous en avez tué $\[red\]$(amount_of_skulltulas)$\[white\] sur 100 !
+]]
+}
+
+dialog{
+  id = "_quest_description.4.0",
+  icon = "74",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+4 Quarts de Coeur créent un $\[red\]Récéptacle de 
+coeur$\[white\] qui augmentera votre endurance vitale.
+Vous en avez actuellement $\[red\]0$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.4.1",
+  icon = "75",
+  skip = "current",
+  text = [[
+$\[red\]- $v - 1/4 -$\[white\]
+4 Quarts de Coeur créent un $\[red\]Récéptacle de 
+coeur$\[white\] qui augmentera votre endurance vitale.
+Il vous reste $\[red\]3$\[white\] fragments à assembler.
+]]
+}
+
+dialog{
+  id = "_quest_description.4.2",
+  icon = "76",
+  skip = "current",
+  text = [[
+$\[red\]- $v - 2/4 -$\[white\]
+4 Quarts de Coeur créent un $\[red\]Récéptacle de 
+coeur$\[white\] qui augmentera votre endurance vitale.
+Il vous reste $\[red\]2$\[white\] fragments à assembler.
+]]
+}
+
+dialog{
+  id = "_quest_description.4.3",
+  icon = "77",
+  skip = "current",
+  text = [[
+$\[red\]- $v - 3/4 -$\[white\]
+4 Quarts de Coeur créent un $\[red\]Récéptacle de 
+coeur$\[white\] qui augmentera votre endurance vitale.
+Il vous reste $\[red\]1$\[white\] fragments à assembler.
+]]
+}
+
+dialog{
+  id = "_quest_description.42",
+  icon = "144",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Cadeau de la $\[red\]Princesse Zelda$\[white\].
+Il est dit que son détenteur a la possibilité
+de parler et voir la défunte Famille Royale.
+]]
+}
+
+dialog{
+  id = "_quest_description.5",
+  icon = "110",
+  skip = "current",
+  text = [[
+$\[green\]- $v - $\[white\]
+Première relique sacrée d'Hyrule obtenu dans
+les $\[green\]Bois Oubliés$\[white\], symbolisant
+courage et dextérité.
+]]
+}
+
+dialog{
+  id = "_quest_description.6",
+  icon = "111",
+  skip = "current",
+  text = [[
+$\[red\]- $v - $\[white\]
+Deuxième relique d'Hyrule obtenu dans le
+$\[red\]Sanctuaire Goron$\[white\], symbolisant la
+force.
+]]
+}
+
+dialog{
+  id = "_quest_description.7",
+  icon = "112",
+  skip = "current",
+  text = [[
+$\[blue\]- $v - $\[white\]
+Troisième relique d'Hyrule obtenu dans la
+$\[cyan\]Caverne Zora$\[white\], cette relique
+représente sagesse et puretée.
+]]
+}
+
+dialog{
+  id = "_quest_description.8",
+  icon = "114",
+  skip = "current",
+  text = [[
+$\[green\]- $v -$\[white\]
+La première des sages d'Hyrule.
+Vous gardez son esprit après l'avoir sauvée 
+dans le $\[green\]Temple de la Forêt$\[white\].
+]]
+}
+
+dialog{
+  id = "_quest_description.9",
+  icon = "115",
+  skip = "current",
+  text = [[
+$\[red\]- $v -$\[white\]
+Deuxième sage d'Hyrule.
+Vous gardez son esprit après l'avoir sauvée
+dans le $\[red\]Temple du Feu$\[white\].
+]]
+}
+
+dialog{
+  id = "_shop.cant_buy_this_item_not_obtained",
+  text = [[
+Comment vas-tu transporter tout ca ?$0
+Tu n'a meme pas le moyen adequat pour le stocker ...
+]]
+}
+
+dialog{
+  id = "_shop.dont_need_more_of_this_shop_item",
+  text = [[
+Hola, je vois que le sac est plein a craquer ...$0
+Ca ne sert a rien de vendre un objet si tu ne peux
+le stocker proprement ...
+]]
+}
+
+dialog{
+  id = "_shop.item.buy_this",
+  question = "1",
+  text = [[
+Désires-tu acheter $\[red\]$v$\[white\] ?
+
+$\[green\]Acheter
+$\[green\]Reposer
+]]
+}
+
+dialog{
+  id = "_shop.not_enough_money",
+  text = [[
+Hep hep hep ... $0
+Tu n'as pas assez d'argent mon jeune garcon ...
+]]
+}
+
+dialog{
+  id = "_shop.shopkeeper.0",
+  text = [[
+
+]]
+}
+
+dialog{
+  id = "_shop.shopkeeper.0.dialog",
+  text = [[
+Test
+Test
+Test
+Test
+]]
+}
+
+dialog{
+  id = "_shop.shopkeeper.0.goodbye",
+  restrict_line = "",
+  text = [[
+Très bien.$0
+Personne ne t'obliges à acheter, tu sais.$0
+Reviens quand tu veux mon garçon !
+]]
+}
+
+dialog{
+  id = "_shop.wanna_continue_shopping",
+  question = "1",
+  text = [[
+Souhaites-tu acheter d'autres articles ?
+
+$\[green\]Oui je veux
+$\[green\]Non merci
+]]
+}
+
+dialog{
+  id = "_treasure.apple.1",
+  icon = "16",
+  skip = "current",
+  text = [[
+You got some $r Apples$w!$0
+Eat them to regain some stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.apple.2",
+  icon = "16",
+  skip = "current",
+  text = [[
+$nYou got an  Apple !$0
+Eat it to regain some stamina!
+ABABAABABAABBABABA
+
+You got some $r Apples$w!$0
+€€Eat them to regain some stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.arrow.1",
+  icon = "83",
+  skip = "current",
+  text = [[
+Vous obtenez  $r 1 Fleche$w!$0
+Les fleches sont les munitions pour l'Arc.
+Utilisez la afin d'atteindre des cibles a distance.
+]]
+}
+
+dialog{
+  id = "_treasure.arrow.2",
+  icon = "83",
+  skip = "current",
+  text = [[
+Vous obtenez  $r 5 Fleches$w!$0
+Les fleches sont les munitions pouur l'Arc.
+Utilisez la afin d'atteindre des cibles a distance.
+]]
+}
+
+dialog{
+  id = "_treasure.arrow.3",
+  icon = "83",
+  skip = "current",
+  text = [[
+Vous obtenez  $r 10 Fleches$w!$0
+Les fleches sont les munitions pouur l'Arc.
+Utilisez la afin d'atteindre des cibles a distance.
+]]
+}
+
+dialog{
+  id = "_treasure.blade_skills.1",
+  icon = "120",
+  text = [[
+Vous avez appris l'$\[red\]  Attaque Tornade$\[white\]   !$0
+Cette technique ancestrale permet de concentrer
+son energie afin de charger une attaque puissante.
+Lorsque l'epee est chargee, relachez la touche 
+afin de dechainer une puissante attaque deux
+fois plus puissante qu'une attaque normale.
+Ce precis d'escrime signe aussi votre preuve
+d'epeiste aupres de Maitre Tessin.
+]]
+}
+
+dialog{
+  id = "_treasure.blade_skills.2",
+  icon = "121",
+  text = [[
+Vous avez appris l'$r  Attaque Brise-Roc$w!$0
+Cette technique permet de briser les rocs et pots
+present un peu partout.
+Il vous sera plus facile de degager un chemin plein
+de pierre et de pots.
+]]
+}
+
+dialog{
+  id = "_treasure.bomb.1",
+  icon = "1",
+  skip = "current",
+  text = [[
+Vous obtenez $r  1 Bombe$w!$0
+Utilisez la afin d'exploser des choses!$0
+Attention a ce qu'elle ne vous explose pas dessus.
+]]
+}
+
+dialog{
+  id = "_treasure.bomb.2",
+  icon = "1",
+  skip = "current",
+  text = [[
+Vous obtenez $r  3 Bombes$w!$0
+Utilisez les afin d'exploser des choses!$0
+Attention a ce qu'elle ne vous explose pas dessus.
+]]
+}
+
+dialog{
+  id = "_treasure.bomb.3",
+  icon = "1",
+  skip = "current",
+  text = [[
+Vous obtenez $r  8 Bombes$w!$0
+Utilisez les afin d'exploser des choses!$0
+Attention a ce qu'elle ne vous explose pas dessus.
+]]
+}
+
+dialog{
+  id = "_treasure.bomb_bag.1",
+  icon = "54",
+  text = [[
+Vous obtenez un $r   Sac de Bombes$w! $0
+Il peut contenir $r10 Bombes$w.
+
+Quand vous armez une bombe, vous pouvez
+la prendre et la jetter afin qu'elle 
+explose immediatement.
+Attention a ne pas se retrouver dans 
+l'explosion !.
+]]
+}
+
+dialog{
+  id = "_treasure.bomb_bag.2",
+  icon = "55",
+  text = [[
+Vous obtenez un    $rGrand Sac de Bombes$w! $0
+Il peut desormais contenir   $r30 Bombes$w.
+
+Quand vous armez une bombe, vous pouvez
+la prendre et la jetter afin qu'elle explose 
+immediatement.
+Attention a ne pas se retrouver dans 
+l'explosion !
+]]
+}
+
+dialog{
+  id = "_treasure.bomb_bag.3",
+  icon = "56",
+  text = [[
+Vous obtenez un $\[red\]Sac de Bombes Géant$\[white\]! $0
+Il peut désormais contenir une somme colossale 
+de $\[red\]50 Bombes$\[white\].
+
+Quand vous armez une bombe, vous pouvez
+la prendre et la jetter afin qu'elle 
+$\[red\]explose immediatement$\[white\].
+
+
+Attention à ne pas se retrouver dans 
+l'explosion !
+]]
+}
+
+dialog{
+  id = "_treasure.bomber_notebook.1",
+  text = [[
+Vous obtenez le   $rLivre des Bombers$w !$0
+]]
+}
+
+dialog{
+  id = "_treasure.boomerang.1",
+  icon = "4",
+  skip = "current",
+  text = [[
+Vous obtenez le  $r Boomerang$w!$0
+Dans le menu  $bInventaire$w, equippez-le
+grace aux touches $x  ou  $c .
+Le Boomerang est une arme distance qui a 
+la particularite de revenir.
+Le boomer
+]]
+}
+
+dialog{
+  id = "_treasure.boss_key.1",
+  icon = "73",
+  skip = "current",
+  text = [[
+Vous obtenez la   $\[red\]Cle du Boss$\[white\]   !$0
+Vous pouvez des a present vous rendre
+dans l'antre du boss de ce donjon.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.1",
+  icon = "7",
+  text = [[
+Vous obtene un $r Flacon$w ! $0
+Vous pouvez vous en servir pour stocker bon
+nombre de choses presente dans ce monde.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.2",
+  icon = "8",
+  text = [[
+Vous mettez en bouteille de l'    $rEau$w!$0
+Elle peut etre servie afin d'arroser des 
+terrains fertiles.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.3",
+  icon = "9",
+  skip = "current",
+  text = [[
+You got some Heart Potion!$0
+Use it to recover your life!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.4",
+  icon = "10",
+  skip = "current",
+  text = [[
+You got some Magic Potion!$0
+Use it to fill up that
+magic meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.5",
+  icon = "11",
+  skip = "current",
+  text = [[
+You got some Stamina Potion!$0
+It restores your Stamina
+meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.6",
+  icon = "12",
+  skip = "current",
+  text = [[
+You got Revitalizing Potion!$0
+It recovers life, magic and
+stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.7",
+  icon = "13",
+  skip = "current",
+  text = [[
+Vous avez capture une     $rFee$w!$0
+Elle vous viendra en aide lorsque vous
+trepasserez en combat.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_1.8",
+  icon = "14",
+  skip = "current",
+  text = [[
+You captured a Poe Soul in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.1",
+  icon = "7",
+  skip = "current",
+  text = [[
+You found an empty Bottle!$0
+It can hold a variety of things!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.2",
+  icon = "8",
+  skip = "current",
+  text = [[
+You put some Water in a Bottle.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.3",
+  icon = "9",
+  skip = "current",
+  text = [[
+You got some Heart Potion!$0
+Use it to recover your life!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.4",
+  icon = "10",
+  skip = "current",
+  text = [[
+You got some Magic Potion!$0
+Use it to fill up that
+magic meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.5",
+  icon = "11",
+  skip = "current",
+  text = [[
+You got some Stamina Potion!$0
+It restores your Stamina
+meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.6",
+  icon = "12",
+  skip = "current",
+  text = [[
+You got Revitalizing Potion!$0
+It recovers life, magic and
+stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.7",
+  icon = "13",
+  skip = "current",
+  text = [[
+You captured a Fairy in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_2.8",
+  icon = "14",
+  skip = "current",
+  text = [[
+You captured a Poe Soul in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.1",
+  icon = "7",
+  skip = "current",
+  text = [[
+You found an empty Bottle!$0
+It can hold a variety of things!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.2",
+  icon = "8",
+  skip = "current",
+  text = [[
+You put some Water in a Bottle.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.3",
+  icon = "9",
+  skip = "current",
+  text = [[
+You got some Heart Potion!$0
+Use it to recover your life!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.4",
+  icon = "10",
+  skip = "current",
+  text = [[
+You got some Magic Potion!$0
+Use it to fill up that
+magic meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.5",
+  icon = "11",
+  skip = "current",
+  text = [[
+You got some Stamina Potion!$0
+It restores your Stamina
+meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.6",
+  icon = "12",
+  skip = "current",
+  text = [[
+You got Revitalizing Potion!$0
+It recovers life, magic and
+stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.7",
+  icon = "13",
+  skip = "current",
+  text = [[
+You captured a Fairy in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_3.8",
+  icon = "14",
+  skip = "current",
+  text = [[
+You captured a Poe Soul in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.1",
+  icon = "7",
+  skip = "current",
+  text = [[
+You found an empty Bottle!$0
+It can hold a variety of things!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.2",
+  icon = "8",
+  skip = "current",
+  text = [[
+You put some Water in a Bottle.
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.3",
+  icon = "9",
+  skip = "current",
+  text = [[
+You got some Heart Potion!$0
+Use it to recover your life!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.4",
+  icon = "10",
+  skip = "current",
+  text = [[
+You got some Magic Potion!$0
+Use it to fill up that
+magic meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.5",
+  icon = "11",
+  skip = "current",
+  text = [[
+You got some Stamina Potion!$0
+It restores your Stamina
+meter!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.6",
+  icon = "12",
+  skip = "current",
+  text = [[
+You got Revitalizing Potion!$0
+It recovers life, magic and
+stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.7",
+  icon = "13",
+  skip = "current",
+  text = [[
+You captured a Fairy in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bottle_4.8",
+  icon = "14",
+  skip = "current",
+  text = [[
+You captured a Poe Soul in
+a Bottle!
+]]
+}
+
+dialog{
+  id = "_treasure.bow.1",
+  icon = "2",
+  text = [[
+Vous obtenez l'$\[red\]Arc du Héros$\[white\]!$0
+Dans le menu $\[yellow\]pause$\[white\], écran $\[blue\]Inventaire$\[white\],
+assignez l'arc grace aux touches $\[red\]$(item_1)$\[white\]
+ou $\[red\]$(item_2)$\[white\].
+Maintenez la touche auquel l'arc est équipper
+pour armer une flèche. 
+Lâchez la touche afin de décocher une flèche.
+Vous pouvez transporter jusqu'a $\[red\]30 flèches$\[white\] !
+]]
+}
+
+dialog{
+  id = "_treasure.cloak_darkness.1",
+  icon = "97",
+  text = [[
+Vous obtenez la   $rCape de l'Ombre$w!$0
+Dans le menu Inventaire, assignez-la avec les 
+touches d'objets.
+Cette cape permet a son utilisateur qui une fois
+activee le rend invisible et lui permet de denicher
+des endroits, objets invisible a l'oeil nu.
+Une fois active, une image de vous sera creer,
+appuyez sur le bouton assignee une seconde fois 
+annulera l'effet de la cape et vous serez 
+transporte la ou se trouvait votre image.
+Attention, la cape consomme de l'Energie Magique,
+une fois epuisee, elle consommera votre vie.
+]]
+}
+
+dialog{
+  id = "_treasure.compass.1",
+  icon = "71",
+  skip = "current",
+  text = [[
+Vous obtenez la $\[red\]Boussole$\[white\] ! $0 
+La boussole sers a indiquer votre position
+précise ainsi que les trésors dans ce donjon !
+]]
+}
+
+dialog{
+  id = "_treasure.crystal.1",
+  icon = "23",
+  skip = "current",
+  text = [[
+You got a $r Magic Crystal$w!$0
+No one knows how this solid
+chunk of pure, crystallized
+magic came to be...
+]]
+}
+
+dialog{
+  id = "_treasure.deku_nuts.1",
+  icon = "100",
+  text = [[
+Vous obtenez   $r1 Noix Mojo$w !$0
+Utilisez-la afin d'aveugler et paralyser vos cibles
+en combat.
+]]
+}
+
+dialog{
+  id = "_treasure.deku_nuts.2",
+  icon = "100",
+  text = [[
+Vous obtenez   $r5 Noix Mojo$w !$0
+Utilisez-les afin d'aveugler et paralyser vos
+cibles en combat.
+]]
+}
+
+dialog{
+  id = "_treasure.deku_nuts.3",
+  icon = "100",
+  text = [[
+Vous obtenez   $r10 Noix Mojo$w !$0
+Utilisez-les afin d'aveugler et paralyser vos 
+cibles en combat.
+]]
+}
+
+dialog{
+  id = "_treasure.dominion_rod.1",
+  icon = "96",
+  text = [[
+Vous obtenez le   $rBaton Anima$w!$0
+Dans le menu Inventaire, assignez-la avec les 
+touches d'objets.
+Une fois equipee, visez une statue afin de
+la rendre vivante.$0 L'objet vise suivra
+votre mouvement.
+]]
+}
+
+dialog{
+  id = "_treasure.fire_arrow_menu.1",
+  icon = "104",
+  text = [[
+Vous obtenez les $\[red\]Flèches de Feu$\[white\]!$0
+Combinés à l'Arc, les $\[red\]flèches de feu$\[white\] brûleront
+et infligeront de sérieux dégats.
+Surveillez votre $\[green\]Energie Magique$\[white\].
+]]
+}
+
+dialog{
+  id = "_treasure.fire_rod.1",
+  icon = "109",
+  text = [[
+Vous obtenez la   $rBaguette de Feu$w !$0
+Utilisez la afin de projetter des flammes a
+distance !
+Dans le $bMenu Inventaire$w , equippez la avec
+X ou V.$0
+Le feu peut passer au dessus de petit obstables
+comme les murets.$2
+Attention,$2 la baguette consomme de $gl'Energie Magique$w !
+]]
+}
+
+dialog{
+  id = "_treasure.fishing_rod.1",
+  text = [[
+Vous obtenez la $r Cane a Peche$w !.
+]]
+}
+
+dialog{
+  id = "_treasure.flippers.1",
+  icon = "18",
+  skip = "current",
+  text = [[
+Vous obtenez l' $r Ecaille Zora Doree $w!$0
+Grace a cette amelioration, vous pouvez desormais
+plonger plus longtemps et nager plus rapidement !
+]]
+}
+
+dialog{
+  id = "_treasure.glove.1",
+  icon = "32",
+  skip = "current",
+  text = [[
+You found the  $r Iron Bracelet$w!$0
+Its power allows you to lift
+heavy things!
+]]
+}
+
+dialog{
+  id = "_treasure.glove.2",
+  icon = "33",
+  skip = "current",
+  text = [[
+You got the  $r Gold Bracelet$w!$0
+Its magic allows you to lift
+just about anything!
+]]
+}
+
+dialog{
+  id = "_treasure.hammer.1",
+  icon = "27",
+  skip = "current",
+  text = [[
+You got the $r Goron Hammer!$w
+This powerful weapon can pound stakes
+into the ground.
+]]
+}
+
+dialog{
+  id = "_treasure.heart.1",
+  icon = "84",
+  text = [[
+Vous obtenez un $\[red\]Coeur de Vie$\[white\]!$0
+Votre vie est restaurée d'un coeur.$0
+C'est toujours mieu que rien ...
+]]
+}
+
+dialog{
+  id = "_treasure.heart_container.1",
+  icon = "78",
+  skip = "current",
+  text = [[
+Vous obtenez un $\[red\]Récéptacle de Coeur$\[white\] !$0 
+Votre endurance augmente d'un coeur !$0
+Voila qui fait plaisir !
+]]
+}
+
+dialog{
+  id = "_treasure.heart_piece.1",
+  icon = "79",
+  text = [[
+Vous obtenez un $\[red\]Quart de Coeur$\[white\]!$0
+En assemblant 4 fragments, le $\[red\]Quart de Coeur$\[white\]
+se transformera en $\[red\]Récéptacle de Coeur$\[white\] qui
+augmentera votre endurance vitale.
+]]
+}
+
+dialog{
+  id = "_treasure.hookshot.1",
+  icon = "6",
+  text = [[
+Vous obtenez le $\[red\]Grappin$\[white\]!$0
+Dans le menu $\[yellow\]pause$\[white\], écran $\[blue\]Inventaire$\[white\],
+assignez le grappin grace aux touches
+$\[red\]$(item_1)$\[white\] ou $\[red\]$(item_2)$\[white\].
+Maintenez la touche auquel vous avez assigné 
+le Grappin enfoncé pour l'armer. 
+Lâchez le bouton pour lancer le Grappin et
+laissez vous hisser vers votre cible.
+]]
+}
+
+dialog{
+  id = "_treasure.ice_rod.1",
+  icon = "109",
+  text = [[
+Vous obtenez la   $rBaguette de Glace$w !$0
+Une douce brise fraiche en emane.$0
+Dans le $bMenu Inventaire$w , equippez la avec
+X ou V.$0
+La glace peut passer au dessus de petit obstables
+comme les murets.$2
+Attention,$2 la baguette consomme de $gl'Energie Magique$w !
+]]
+}
+
+dialog{
+  id = "_treasure.joy_pendant_counter.1",
+  text = [[
+Vous obtenez un    $rPendentif du Bonheur$w
+]]
+}
+
+dialog{
+  id = "_treasure.lamp.1",
+  icon = "5",
+  skip = "current",
+  text = [[
+Vous obtenez la  $r Lanterne$w!$0
+Grace a elle, ne craignez plus l'obscuritée.
+Pour l'activer ou la desactiver, appuyez sur la
+touche auquel elle est assignée.
+Attention cependant a veiller a sa    $y reserve$w.
+La reserve est la barre que vous trouverez en 
+haut de l'écran lors de l'utilisation de la 
+lanterne.
+]]
+}
+
+dialog{
+  id = "_treasure.magic_bar.1",
+  text = [[
+$\[green\]Magic Power$\[white\]
+]]
+}
+
+dialog{
+  id = "_treasure.magic_bar.2",
+  text = [[
+Your $\[green\]Magic Power$\[white\]  has increased !$0
+Now you have   $\[red\]twice as much$\[white\]magic then you had before !$0
+How fabulous.
+]]
+}
+
+dialog{
+  id = "_treasure.magic_flask.1",
+  icon = "85",
+  skip = "current",
+  text = [[
+You found a small jar of
+Magic Potion!$0
+Some magic is renewed!
+]]
+}
+
+dialog{
+  id = "_treasure.magic_flask.2",
+  icon = "86",
+  skip = "current",
+  text = [[
+You found a large jar of
+Magic Potion!$0
+Some magic is renewed!
+]]
+}
+
+dialog{
+  id = "_treasure.mail.1",
+  text = [[
+Vous obtenez une    $rLettre$w !$0
+Pour lire une lettre, allez dans le menu
+Status Quete et appuyez sur "ACTION".
+]]
+}
+
+dialog{
+  id = "_treasure.mail_bag.1",
+  text = [[
+Vous obtenez le   $rSac de Facteur$w !$0
+Grace a cet objet, vous pourrez stocker tout
+type de courrier.
+Pour lire une lettre, allez dans le menu
+Status Quete et appuyez sur "ACTION" et
+naviguez a l'aide des touches de direction.
+]]
+}
+
+dialog{
+  id = "_treasure.map.1",
+  icon = "70",
+  next = "_treasure.map.minimap",
+  text = [[
+Vous obtenez la $\[red\]Carte du Donjon$\[white\] !$0
+Dans le menu $\[yellow\]Pause$\[white\], vous pouvez voir le plan 
+du donjon entier dans le menu $\[red\]Carte$\[white\] et ainsi
+mieu vous repérer dans $\[red\]ces lieux$\[white\] !
+Les salles $\[grey\]grises$\[white\] sont les salles inéxplorées,
+les salles $\[green\]vertes$\[white\] sont les salles explorées,
+la salle qui clignote est celle ou vous vous 
+trouvez actuellement.
+]]
+}
+
+dialog{
+  id = "_treasure.map.minimap",
+  icon = "70",
+  text = [[
+En appuyant sur la touche $\[red\]$(minimap)$\[white\], vous
+pourrez afficher une minicarte de la salle 
+actuelle en $\[blue\]bas à droite$\[white\] de votre 
+écran.
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.1",
+  text = [[
+ddddddd
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.2",
+  text = [[
+ddddddd
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.3",
+  text = [[
+ddddddd
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.4",
+  icon = "114",
+  text = [[
+$\[green\]Sara, le sage de la Forêt$\[white\] vous confie
+son esprit après l'avoir sauvée!$0
+Sara est la $\[red\]première$\[white\] des 8 sages du Royaume.$0
+
+
+$0 Il ne vous reste plus que $\[red\]$v$\[white\] sages
+à sauver !
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.5",
+  text = [[
+ddddddd
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.6",
+  text = [[
+if medalion == 1 then --forest
+    item_sprite:set_animation("medalion")
+    item_sprite:set_direction(medalion - 1)
+    item_sprite:draw(self.quest_items_surface, 209, 69)
+  end
+]]
+}
+
+dialog{
+  id = "_treasure.medalions.7",
+  text = [[
+Vous obtenez   $gl'Esprit de la Foret: Sara$w !$0
+Sara est l'une des 8 sages du Royaume. Elle vous
+confie son esprit afin de vous rendre plus puissant.
+]]
+}
+
+dialog{
+  id = "_treasure.ocarina.1",
+  icon = "34",
+  skip = "current",
+  text = [[
+You got the $r Ocarina of Wind$w!$0
+Use this magical instrument
+to get where you need to go!
+]]
+}
+
+dialog{
+  id = "_treasure.ore.1",
+  icon = "30",
+  skip = "current",
+  text = [[
+You found $r Subrosian Ore$w! It's
+strong metallic compound from
+the deepest depths of the earth!
+]]
+}
+
+dialog{
+  id = "_treasure.plume.1",
+  icon = "24",
+  skip = "current",
+  text = [[
+You found a $r Goddess Plume$w!
+This is a legendary treasure
+few will ever behold!
+]]
+}
+
+dialog{
+  id = "_treasure.potion.1",
+  icon = "9",
+  skip = "current",
+  text = [[
+You got some  $r Heart Potion$w!$0
+Use it to restore your life.
+]]
+}
+
+dialog{
+  id = "_treasure.potion.2",
+  icon = "10",
+  skip = "current",
+  text = [[
+You got some  $r Magic Potion$w!$0
+Use it to refill your
+magic meter.
+]]
+}
+
+dialog{
+  id = "_treasure.potion.3",
+  icon = "11",
+  skip = "current",
+  text = [[
+You got  $r Stamina Potion$w!$0
+It restores your stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.potion.4",
+  icon = "11",
+  skip = "current",
+  text = [[
+You got $r Revitalizing Potion$w!$0
+It restores life, magic
+and stamina!
+]]
+}
+
+dialog{
+  id = "_treasure.quiver.2",
+  icon = "58",
+  text = [[
+You received a  $r Large Quiver$w!$0
+It can hold 30 arrows at a time!
+]]
+}
+
+dialog{
+  id = "_treasure.quiver.3",
+  icon = "59",
+  text = [[
+You received a  $r Huge Quiver$w!$0
+It can hold 60 arrows!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee.1",
+  icon = "90",
+  skip = "current",
+  text = [[
+You found a  $g Green Rupee$w!$0
+That's worth 1 Rupee, so you'd
+better get lots!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee.2",
+  icon = "91",
+  skip = "current",
+  text = [[
+You found a  $b Blue Rupee$w!$0
+That's worth 5 Rupees.
+]]
+}
+
+dialog{
+  id = "_treasure.rupee.3",
+  icon = "92",
+  skip = "current",
+  text = [[
+You found a  $r Red Rupee$w!$0
+That's worth 20 Rupees!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee.4",
+  icon = "93",
+  skip = "current",
+  text = [[
+You found a  $p Purple Rupee$w!$0
+This one's worth 50 Rupees!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee.5",
+  icon = "94",
+  skip = "current",
+  text = [[
+You found a  $s Silver Rupee$w!$0
+It's worth 100 Rupees!
+Lucky!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee.6",
+  icon = "95",
+  skip = "current",
+  text = [[
+You found a  $y Gold Rupee$w!$0
+It's worth 200 Rupees!
+Amazing!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee_bag.2",
+  icon = "52",
+  skip = "current",
+  text = [[
+You got the $r Large Rupee Bag$w!$0
+It holds 1000 rupees!
+]]
+}
+
+dialog{
+  id = "_treasure.rupee_bag.3",
+  icon = "53",
+  skip = "current",
+  text = [[
+You got the $r Huge Rupee Bag$w!$0
+It holds a whopping 5000 rupees!
+]]
+}
+
+dialog{
+  id = "_treasure.shield.1",
+  icon = "63",
+  skip = "current",
+  text = [[
+You were awarded a trusty   $r  wooden
+shield of Ordon origins $w . Be careful,
+it's only made of wood.
+]]
+}
+
+dialog{
+  id = "_treasure.shield.2",
+  icon = "64",
+  skip = "current",
+  text = [[
+You received a strong  $r Hylian
+Shield$w!$0 It's made of nearly
+impenetrable Hylian metal.
+]]
+}
+
+dialog{
+  id = "_treasure.shield.3",
+  icon = "65",
+  skip = "current",
+  text = [[
+You found the magical  $r Light
+Shield$w!$0 Made of polished metal
+and infused with the purity of light,
+this shield will protect its wielder
+from most anything!
+]]
+}
+
+dialog{
+  id = "_treasure.small_key.1",
+  icon = "72",
+  text = [[
+Vous obtenez une $\[red\]Petite Clé$\[white\] !$0
+Cette petite clé permet d'ouvrir une porte
+verouillée dans les alentours.$0
+Elle n'est utilisable que dans cet endroit.
+]]
+}
+
+dialog{
+  id = "_treasure.sword.1",
+  icon = "66",
+  text = [[
+You found a sturdy $r   Ordon Sword$w!$0
+It is a lightweight but durable
+blade which has been passed down
+by the Ordon people for many
+generations.
+]]
+}
+
+dialog{
+  id = "_treasure.sword.2",
+  icon = "67",
+  text = [[
+Vous obtenez $\[blue\]Excalibur$\[white\]!$0
+Excalibur est l'Epée Légendaire du Héros du Temps,
+qui a le pouvoir de repousser le mal.
+]]
+}
+
+dialog{
+  id = "_treasure.sword.3",
+  icon = "68",
+  skip = "current",
+  text = [[
+Les prières du Sage de la Terre
+raniment peu à peu Excalibur!
+
+Plus qu'une étape et cette épée 
+redeviendra l'Excalibur d'antan.
+]]
+}
+
+dialog{
+  id = "_treasure.trading.1",
+  icon = "40",
+  skip = "current",
+  text = [[
+You found an $r Odd Mushroom$w!
+The scent is quite...
+interesting.
+]]
+}
+
+dialog{
+  id = "_treasure.trading.10",
+  icon = "49",
+  skip = "current",
+  text = [[
+You traded the  $r Goron Vase$w
+for a $r Zora Scale$w!$0
+Another race-specific thing, I wonder
+what you'll do with it?
+]]
+}
+
+dialog{
+  id = "_treasure.trading.11",
+  icon = "39",
+  skip = "current",
+  text = [[
+You traded the  $r Zora Scale$w for a
+$rFrozen Fish$w!$0
+Finally something with some mass appeal!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.12",
+  icon = "38",
+  skip = "current",
+  text = [[
+You traded the  $r Frozen Fish$w for the
+$rCulinary Arts of Hyrule book$w !$0
+Neat!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.13",
+  icon = "0",
+  skip = "current",
+  text = [[
+You traded the $r Culinary Arts of
+Hyrule book$w for a $r Rito Feather$w!$0
+Finally a truly useful item! Maybe this
+trading stuff is done?
+]]
+}
+
+dialog{
+  id = "_treasure.trading.2",
+  icon = "41",
+  skip = "current",
+  text = [[
+Your $r Odd Mushroom$w  was made
+into some $r Odd Potion$w!
+Whatever you do with it, 
+don't try to drink it!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.3",
+  icon = "42",
+  skip = "current",
+  text = [[
+You traded the  $r Odd Potion$w for
+a $rDeku Mask$w!$0
+Not sure what the  $g Deku$w wanted
+with that potion, but I'll bet
+this is considered trading up!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.4",
+  icon = "43",
+  skip = "current",
+  text = [[
+You traded the  $r Deku Mask$w for
+a $rMoon Tear$w!$0
+
+It's weird that the guy wanted
+the mask so badly, but who cares
+since this is shiny!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.5",
+  icon = "44",
+  skip = "current",
+  text = [[
+You traded the  $r Moon Tear$w
+for a $r Crystal Ball$w!$0
+You swapped one shiny thing
+for another!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.6",
+  icon = "45",
+  skip = "current",
+  text = [[
+You traded a $r Crystal Ball$w
+for a $r hunk of meat$w!$0
+Impa thinks it's tasty, but
+I wouldn't try it.
+]]
+}
+
+dialog{
+  id = "_treasure.trading.7",
+  icon = "46",
+  skip = "current",
+  text = [[
+You traded the  $r Tasty Meat$w
+for $r Dog Food$w!$0
+Not exactly a fair trade, 
+but you felt bad for the
+hungry Moblin.
+]]
+}
+
+dialog{
+  id = "_treasure.trading.8",
+  icon = "47",
+  skip = "current",
+  text = [[
+You traded the  $r Dog Food$w 
+for some yummy  $r Bananas$w!$0
+Now we're getting somewhere!
+]]
+}
+
+dialog{
+  id = "_treasure.trading.9",
+  icon = "48",
+  skip = "current",
+  text = [[
+You traded $r Bananas$w for a 
+$rGoron Vase$w!$0
+It's quite beautiful but you're not sure
+who would want one besides a  $g Goron$w.
+]]
+}
+
+dialog{
+  id = "_treasure.tunic.2",
+  icon = "61",
+  text = [[
+Vous obtenez la $\[red\]Tunique Goron$\[white\]!$0
+L'étoffe de cet habit est à l'épreuve du
+feu.$0 Attention, vos dégats seront décuplés
+dans les régions froides et dans l'eau.
+
+Dans le menu $\[green\]Equipement$\[white\], équippez-la grâce
+à la touche Action ($\[red\]$(action)$\[white\]).
+]]
+}
+
+dialog{
+  id = "_treasure.tunic.3",
+  icon = "62",
+  text = [[
+Vous obtenez la $\[red\]Tunique Zora$\[white\]!$0
+Cette tunique impregnée du savoir-faire Zora
+vous permet de vous déplacer plus vite et
+d'être plus endurant dans l'eau.
+Cette tunique à aussi l'abilitée, combinée a
+l'$\[blue\]Ecaille Zora$\[white\], de vous permettre de plonger
+plus longtemps, vous n'avez presque plus à
+craindre le risque de noyade.
+
+Dans le menu $\[green\]Equipement$\[white\], équippez-la grâce
+à la touche Action ($\[red\]$(action)$\[white\]).
+]]
+}
+
+dialog{
+  id = "_treasure.world_map.1",
+  icon = "50",
+  text = [[
+Vous achetez une $\[red\]Partie de la Carte du Monde$\[white\]!$0
+Grâce à ce morceau, votre $\[red\]Carte du Monde d'Hyrule$\[white\]
+se complète.
+
+
+Pour voir la Carte du Monde, allez dans le sous-menu
+$\[red\]Carte$\[white\] du menu $\[yellow\]Pause$\[white\]!
+]]
+}
+
+dialog{
+  id = "arrow_game.good_luck",
+  text = [[
+Prepares-toi, ca va commencer.
+]]
+}
+
+dialog{
+  id = "arrow_game.intro",
+  question = "1",
+  skip = "current",
+  text = [[
+Welcome to our brand new archery game!
+Pay 50 rupees for the chance to fire
+at as many targets as you can in 30
+seconds. I'll pay out the number of
+points that you get!
+
+So, wanna play?
+Yes
+No
+]]
+}
+
+dialog{
+  id = "arrow_game.no_bow",
+  text = [[
+Comment veux-tu jouer si tu ne possede pas
+d'Arc ?$0 Je suis sympa sur les prix mais crois
+pas que je fournis les armes.
+]]
+}
+
+dialog{
+  id = "arrow_game.not_enough_arrows",
+  text = [[
+You don't have enough arrows. Tell
+you what, I'll give you 10 just for
+paying to play my little game.
+]]
+}
+
+dialog{
+  id = "arrow_game.not_open",
+  skip = "current",
+  text = [[
+This will be an exciting archery game,
+but I'm not open yet.
+]]
+}
+
+dialog{
+  id = "arrow_game.not_playing",
+  text = [[
+
+       C'est ton choix, reviens quand tu veux
+]]
+}
+
+dialog{
+  id = "arrow_game.playing",
+  text = [[
+Eh !$0 J'suis pas bavard, tu joues oui ou non ?$0
+Le chrono tourne, comptes pas sur moi pour te filer
+une partie gratos le mome.
+]]
+}
+
+dialog{
+  id = "arrow_game.reward.good",
+  text = [[
+Pas mal,$0 peut mieu faire, tu as eu $v.
+C'est pas mal, vraiment, je te redonne la 
+difference en Rubis.
+]]
+}
+
+dialog{
+  id = "arrow_game.reward.great",
+  text = [[
+Magnifique ! $0 Parfait !$0
+Tu as eu toutes les cibles, à savoir $v !
+Tiens prends ca, tu l'as merite !
+]]
+}
+
+dialog{
+  id = "arrow_game.reward.none",
+  text = [[
+Eh bah ...$0 Ce score ...$0 Meme mon paneau
+n'en veut pas ...$0
+Pas grave, on se perfectionne comme on dit.
+]]
+}
+
+dialog{
+  id = "chest_game.choose_chest",
+  skip = "current",
+  text = [[
+Choose one of the three chests.$0
+But don't count on me to help you out!
+]]
+}
+
+dialog{
+  id = "chest_game.good_luck",
+  skip = "current",
+  text = [[
+Go choose a chest, and good luck!
+]]
+}
+
+dialog{
+  id = "chest_game.intro",
+  question = "1",
+  skip = "current",
+  text = [[
+Welcome to the mystery chest game!$0
+Pay 20 rupees to open one of the three
+chests and try to earn as many rupees
+as you can! So, want to play?
+Yes
+No
+]]
+}
+
+dialog{
+  id = "chest_game.not_allowed",
+  question = "1",
+  skip = "current",
+  text = [[
+Haven't you won enough already? I'm broke
+because of you!$0 If you're sure you
+still want to play, I'll let you- but you
+won't win anything as good as the wallet!
+Play
+Don't
+]]
+}
+
+dialog{
+  id = "chest_game.not_playing",
+  skip = "current",
+  text = [[
+It's your life, man! Be a bit
+more proactive!
+]]
+}
+
+dialog{
+  id = "chest_game.pay_first",
+  skip = "current",
+  text = [[
+Hey!
+You gotta pay to play!
+]]
+}
+
+dialog{
+  id = "chest_game.play_again",
+  question = "1",
+  skip = "current",
+  text = [[
+Do you want to try again?
+
+It's 20 rupees!
+Play?
+Yes
+No
+]]
+}
+
+dialog{
+  id = "chest_game.rupee_bag",
+  skip = "current",
+  text = [[
+That's our best prize! You won't be
+getting anything as cool as that
+again...
+]]
+}
+
+dialog{
+  id = "dungeon.earth_temple.intro._medli_earth_temple",
+  text = [[
+Test
+]]
+}
+
+dialog{
+  id = "found_piece_of_heart.first",
+  icon = "75",
+  restrict_line = "",
+  text = [[
+Il vous reste $\[red\]3$\[white\] fragments à assembler afin
+de créer un $\[red\]Récéptacle$\[white\].$0
+Votre vie est restaurée.
+]]
+}
+
+dialog{
+  id = "found_piece_of_heart.fourth",
+  icon = "78",
+  restrict_line = "",
+  text = [[
+Les 4 fragments s'assemblent afin de créer
+un $\[red\]Récéptacle de coeur$\[white\]!$0
+Votre endurance accroît d'$\[red\]une vie$\[white\] !
+]]
+}
+
+dialog{
+  id = "found_piece_of_heart.second",
+  icon = "76",
+  restrict_line = "",
+  text = [[
+Plus que $\[red\]2$\[white\] fragments à assembler afin
+de créer un $\[red\]Récéptacle$\[white\].$0
+Votre vie est restaurée.
+]]
+}
+
+dialog{
+  id = "found_piece_of_heart.third",
+  icon = "77",
+  restrict_line = "",
+  text = [[
+Encore $\[red\]1$\[white\] à assembler afin de créer un
+nouveau $\[red\]Récéptacle$\[white\].$0
+Votre vie est restaurée.
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cannot_lift_should_cut",
+  skip = "current",
+  text = [[
+This would be difficult to lift, why
+not find something to cut it?
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cannot_lift_still_too_heavy",
+  skip = "current",
+  text = [[
+It's still too heavy to lift even with
+your increased strength!
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cannot_lift_too_heavy",
+  skip = "current",
+  text = [[
+C'est bien trop lourd pour toi, tu ne pourras
+pas soulever ce truc avec ta force actuelle.
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cannot_see_need_lamp",
+  skip = "current",
+  text = [[
+You can't see a thing! Maybe you should
+find a source of light...
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cant_open_boss_door",
+  skip = "current",
+  text = [[
+Cette porte est verouillée par une grosse serrure.$0
+Je ne pense pas qu'une $\[red\]Petite Clé$\[white\] soit
+capable d'ouvrir une telle serrure ...$0
+Il y'a bien moyen de l'ouvrir non ?
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cant_open_chest_wrong_dir",
+  skip = "current",
+  text = [[
+
+Ce coffre ne s'ouvre pas de ce coté.$0
+Essaye de l'ouvrir depuis un autre coté.
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cant_open_need_key",
+  skip = "current",
+  text = [[
+Cette porte est fermement vérouillée par un vérou ... $0
+Tu devrais commencer par chercher une $\[red\]Petite
+Clé$\[white\] dans cette zone pour pouvoir ouvrir
+cette porte.
+]]
+}
+
+dialog{
+  id = "gameplay.logic._cursed",
+  skip = "current",
+  text = [[
+You've been cursed!
+You can't use any item until the curse disspel.
+]]
+}
+
+dialog{
+  id = "gameplay.logic._empty_chest",
+  skip = "current",
+  text = [[
+
+Ce coffre est vide ...$0
+La chance n'est pas de ton cote ...
+]]
+}
+
+dialog{
+  id = "gameplay.logic._lantern_no_oil",
+  text = [[
+Tu es a court d'huile.$0
+Il est inutile d'essayer d'allumer la lanterne.$0
+Trouve de l'huile si tu veux l'utiliser a nouveau.
+]]
+}
+
+dialog{
+  id = "gameplay.logic._sleep_bed",
+  question = "1",
+  skip = "current",
+  text = [[
+Would you like to sleep?
+Yes
+No
+]]
+}
+
+dialog{
+  id = "gameplay.logic._too_heavy",
+  skip = "current",
+  text = [[
+Wow, this looks pretty heavy!
+You won't be able to lift it with just
+your bare hands.
+]]
+}
+
+dialog{
+  id = "gameplay.logic.torch.need_lamp",
+  skip = "current",
+  text = [[
+It looks like this torch could be lit,
+if you had access to some fire.
+]]
+}
+
+dialog{
+  id = "gameplay.objects._crystal_switch",
+  skip = "current",
+  text = [[
+It's a crystal switch.
+Try to hit it with something...
+]]
+}
+
+dialog{
+  id = "gameplay.objects.guards.hero_spotted",
+  text = [[
+Eh dis donc toi !$0
+Tu n'as rien a faire ici !
+]]
+}
+
+dialog{
+  id = "gameplay.objects.mailbox",
+  skip = "current",
+  text = [[
+Gentlemen don't read others' mail.
+You are a gentleman, right?
+]]
+}
+
+dialog{
+  id = "gameplay.objects.mailbox.link",
+  skip = "current",
+  text = [[
+This is your mailbox, but it appears
+to be empty.
+]]
+}
+
+dialog{
+  id = "gameplay.objects.mailbox.office",
+  skip = "current",
+  text = [[
+Mailbox is for official use only!
+]]
+}
+
+dialog{
+  id = "map.location.event.battle.vaati.final_stand",
+  text = [[
+$1Ce n'est pas possible ...$0
+Je ne peux pas perdre contre ce ... $0
+Gamin ...$0
+
+$v
+
+Tu es digne d'etre le heros de la lumiere ...$0
+La prophecie Hylienne etait donc vrai ... $0
+C'est ...$0 Inconcevable ...
+Comment moi, le grand sorcier Vaati a pu etre ...
+Vaincu ...$0
+
+Heros de la Lumiere ... $0
+Ton ame pure n'est que temporaire ...$0
+
+
+Un jour ... $0Oui$0 un jour ... $0
+
+
+Tu deviendras$0 l'un des notres ...$0
+
+Et tu meneras ... $0
+Ce royaume ...$0
+Dans un sombre chaos ... $0
+La princesse Zelda ... $0 
+Les sages ... $0 
+Ils te tueront ... $0
+
+Le pouvoir de la Triforce te montera a la tete ...$0
+]]
+}
+
+dialog{
+  id = "map.location.hyrule_castle_entrance.cigitking",
+  skip = "current",
+  text = [[
+"C'est dans ce tombeau lugbre que fut enterré le roi 
+Daphne Termina Enderson I lors de sa defaite.$0 Ce 
+tombeau servait de raccourci vers le Chateau d'Hyrule
+lorsque ce dernier fut en etat d'alerte.$0
+Seul une personne avec le coeur pur munis des 3
+pierres peut pretendre acceder a ces catacombes"
+
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.abort",
+  text = [[
+D'accord ...$0
+Une autre fois peut etre ?
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.common_after_learned",
+  text = [[
+Si tu desires maitriser ta lame a la perfection, 
+reviens me voir plus tard.
+
+Je te transmettrais avec honneur mon savoir en
+matiere de maniement d'arme.
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.common_after_learned_everything",
+  text = [[
+Je n'ai plus rien a t'apprendre.
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.coward",
+  text = [[
+Eh, tu fais quoi ?$0
+Reviens au centre ...
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.skill_0_interraction_instruction",
+  text = [[
+Allez, c'est a ton tour, montre moi ce dont tu
+es capable. 
+
+Charge ton epee en maintenant la touche       $r"attaque"$w
+et $rrelache$w des que tu entends un son !
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.start_learn_skill_0",
+  question = "1",
+  text = [[
+Mon nom est Tesshin, je suis l'un des plus grand maitre
+epeiste du royaume d'Hyrule.
+
+Si tu suis l'entrainement de mon dojo, tu es
+certains de progresser dans l'art du maniement
+de l'Epee !
+Je te propose que tu deviennes mon eleve afin
+que je t'enseignes les techniques epeistes
+ancestrales. 
+Desires-tu te perfectionner au maniement de l'epee ?$g
+J'en serais honnore !
+Pas le temps.$w
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.start_learn_skill_0_accepted",
+  text = [[
+Fort bien, alors je te demande de reculer un peu.
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.start_learn_skill_0_accepted_on_carpet",
+  text = [[
+Tres bien, je vais t'enseigner la technique fondamentale:
+Je parle de l'$r Attaque Tornade$w  .
+
+Cette technique consiste a laisser la touche "attaque"
+appuyee afin de charger ton epee en energie.
+
+$bPremierement$w
+Maintiens appuye la touche     $r ATTAQUE$waprès un coup 
+d'epee.
+$bDeuxiemement$w
+Laisse la puissance s'accumuler ...
+
+$bEt pour finir$w
+Relache la touche, et laisse la puissance du coup
+faire tout le reste.
+Cependant, une technique d'epee ne s'apprend qu'avec
+la pratique
+
+Je vais donc prendre possession de ton corps afin
+de te montrer directement l'attaque en action.
+
+Voila la technique de l'Ecole Tesshin :
+$bPrise de Controle$w
+
+Nnnnnnnnnnngh!!
+
+
+C-o-n-t-r-o-l-e !!!
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.start_learn_skill_0_done",
+  text = [[
+Tres bien, c'est parfait !
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.start_learn_skill_0_done_2",
+  text = [[
+Tu maitrises bien ton epee, tu as bien plus d'experience
+que je n'esperais, je comprends pourquoi la princesse
+Zelda t'a choisis.
+Fort bien, prends donc ceci, ce    $r Precis d'Escrime$w 
+te seras utile afin de te souvenir de cette attaque.
+]]
+}
+
+dialog{
+  id = "map.location.interior.blade_brother.start_learn_skill_control",
+  text = [[
+Hmpff ... 
+Allez, cette fois c'est vraiment a toi.$0 On apprend mieu 
+quand on le pratique soi meme !
+Maintiens la touche attaque, accumule la puissance
+et relache tout.
+]]
+}
+
+dialog{
+  id = "map.location.minigame.arrow_game.castle_town",
+  question = "1",
+  text = [[
+Ceci est un test, veux tu essayer ?
+$\[green\]Oui
+$\[green\]Non
+]]
+}
+
+dialog{
+  id = "map.location.minigame.common_not_enough_money",
+  text = [[
+Hep hep hep !$0
+Tu n'as pas assez de Rubis pour jouer.
+]]
+}
+
+dialog{
+  id = "map.location.minigame.common_wont_play",
+  text = [[
+Très bien ...$0
+Personne ne t'obliges a jouer, tu sais ...
+A une prochaine fois.
+]]
+}
+
+dialog{
+  id = "map.location.sanctuary.pull_out_sword",
+  text = [[
+$1Bien joué $v !$0 Tu as réussi à résoudre 
+l'énigme que seul l'élu aurait pu résoudre ...$0
+As-tu remarquer quelque chose d'anormal en venant
+en ces lieux ?
+Tout ce qui se trouve ici est scellé, ce qui veut 
+dire que pour tout ce qui se trouve ici, le temps
+est arreté ...$0
+Nous en somme l'exception.
+Jadis, avant ma mort, lorsque le Héros débarassa le
+monde du mal, il reposa l'épée sacrée ici, il fit
+voeux auprès de la $\[yellow\]Triforce$\[white\] de sceller le
+Sanctuaire pour éviter que tout recommence ...
+
+Hélas, les sbires de Ganondorf avaient envahis
+le Sanctuaire bien avant que ce lieu soit sceller.
+
+$v, au milieu de ce blason repose une épée,
+qui, comme nous, n'est pas sceller.$0
+Cette épée a pour nom la $\[blue\]Lame Légendaire,
+Excalibur$\[white\] !$0
+Il s'agit de l'épée béni par les déesses, c'est
+la seule arme qui puisse fonctionner afin
+de pourfendre le malin, ou plutôt, les malins,
+$\[red\]Vaati$\[white\] et $\[red\]Ganondorf$\[white\].
+Cette épée utilise actuellement sa puissance afin
+de garder le sceau actif.$0
+Retirer $\[blue\]Excalibur$\[white\] de son socle brisera le sceau
+et tout ici, reprendra vie ...
+Très bien $v, nous sommes ici, en temps normal,
+personne n'aurait eu accès en ces lieux, seul
+les membres de la $\[blue\]Famille Royale$\[white\] et l'$\[green\]Elu$\[white\] peuvent
+prétendre pénétrer en ces lieux.
+Ce qui veut dire que tu es sans doute l'un des 
+élu de la prophécie ...$0
+Avance donc vers le piédéstal, et retire
+$\[blue\]Excalibur$\[white\] du socle.
+]]
+}
+
+dialog{
+  id = "map.location.sanctuary.sword_pulled",
+  text = [[
+Les deeses t'ont donc elu comme digne porteur de la 
+Lame Legendaire : Excalibur, la lame qui jadis repoussa
+les forces du mal ...
+]]
+}
+
+dialog{
+  id = "map.location.sanctuary.sword_pulled_1",
+  text = [[
+Parfait, te voila possesseur de la Lame Legendaire
+$b Excalibur $w !$0
+
+Maintenant va, repartons dans la Chateau, va vaincre
+Vaati ! Il ne faut pas qu'il progresse dans ses plans.
+Si il sait ou la Princesse Zelda est cache, nous serons
+dans de beau draps.
+]]
+}
+
+dialog{
+  id = "slot_game.choose_bet",
+  question = "1",
+  skip = "current",
+  text = [[
+How much will you bet?
+5 rupees
+20 rupees
+]]
+}
+
+dialog{
+  id = "slot_game.intro",
+  question = "1",
+  skip = "current",
+  text = [[
+Welcome to our brand new slot
+machine! Bet 5 or 20 rupees and
+try to get 3 identical symbols
+to earn back your bet or more!
+
+
+So, wanna play?
+Yes
+No
+]]
+}
+
+dialog{
+  id = "slot_game.just_paid",
+  next = "slot_game.playing",
+  skip = "current",
+  text = [[
+Thanks!
+]]
+}
+
+dialog{
+  id = "slot_game.not_enough_money",
+  skip = "current",
+  text = [[
+You don't have enough money!
+]]
+}
+
+dialog{
+  id = "slot_game.not_playing",
+  skip = "current",
+  text = [[
+Another time maybe?
+]]
+}
+
+dialog{
+  id = "slot_game.pay_first",
+  skip = "current",
+  text = [[
+Hey! You have to pay before
+you can play!
+]]
+}
+
+dialog{
+  id = "slot_game.playing",
+  skip = "current",
+  text = [[
+Go near the slots and press the
+$b action key$w to stop them.
+Good luck!
+]]
+}
+
+dialog{
+  id = "slot_game.reward.blue_rupees",
+  skip = "current",
+  text = [[
+Three $b blue rupees$w, neat!
+Congrats, you're getting 7 times
+the amount of your bet!
+]]
+}
+
+dialog{
+  id = "slot_game.reward.different_rupees",
+  skip = "current",
+  text = [[
+Wow!!! $p Three different rupees$w!
+That's not a common feat, you know!
+You get 15 times the amount of
+your bet!
+]]
+}
+
+dialog{
+  id = "slot_game.reward.green_rupees",
+  skip = "current",
+  text = [[
+Three $g green rupees$w, nice! You
+get 5 times the amount of
+your bet!
+]]
+}
+
+dialog{
+  id = "slot_game.reward.none",
+  question = "1",
+  skip = "current",
+  text = [[
+Tough luck, you didn't get any
+winning combination.
+
+Wanna try again?
+Yes
+No
+]]
+}
+
+dialog{
+  id = "slot_game.reward.red_rupees",
+  skip = "current",
+  text = [[
+Three $r red rupees$w!!!
+Now I'm very impressed! You're
+getting 10 times the amount of
+your bet. Bravo!
+]]
+}
+
+dialog{
+  id = "slot_game.reward.same_any",
+  skip = "current",
+  text = [[
+Three $o identical symbols$w, not bad!
+You get 4 times the amount of
+your bet!
+]]
+}
+
+dialog{
+  id = "slot_game.reward.yoshi",
+  skip = "current",
+  text = [[
+$1...$3$c Three Yoshis?!$w
+I can barely believe it! It's the
+best combination there is...
+You win 20 times your bet!
+]]
+}
+
+dialog{
+  id = "slot_game.rupee_bag",
+  skip = "current",
+  text = [[
+You won so many rupees that you
+wouldn't be able to hold them all!
+That bigger wallet should help!
+]]
+}
+
+dialog{
+  id = "torch.grove_temple_moths",
+  skip = "current",
+  text = [[
+Moths are attracted to flame!
+Wonder what would happen if you light this?
+]]
+}
+
